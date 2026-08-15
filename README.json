@@ -38,7 +38,7 @@
             "last_commit": "2026-08-03T00:50:21Z",
             "owner": "DEEP-PolyU",
             "repo": "Awesome-LLM-based-Text2SQL",
-            "stars": 1353
+            "stars": 1354
           }
         }
       ],
@@ -58,7 +58,7 @@
             "last_commit": "2025-07-02T03:39:31Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT-Hub",
-            "stars": 2004
+            "stars": 2005
           }
         },
         {
@@ -615,7 +615,7 @@
                 "last_commit": "2023-11-03T08:26:49Z",
                 "owner": "THUDM",
                 "repo": "GLM",
-                "stars": 3638
+                "stars": 3639
               }
             }
           ],
@@ -625,7 +625,7 @@
             "last_commit": "2024-06-27T04:05:25Z",
             "owner": "zai-org",
             "repo": "ChatGLM-6B",
-            "stars": 40987
+            "stars": 40988
           }
         },
         {
@@ -639,7 +639,7 @@
             "last_commit": "2026-05-01T00:25:53Z",
             "owner": "lm-sys",
             "repo": "FastChat",
-            "stars": 39516
+            "stars": 39513
           }
         },
         {
@@ -667,7 +667,7 @@
             "last_commit": "2025-01-26T21:39:06Z",
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29260
+            "stars": 29257
           }
         },
         {
@@ -681,7 +681,7 @@
             "last_commit": "2025-01-26T21:39:06Z",
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29260
+            "stars": 29257
           }
         },
         {
@@ -695,7 +695,7 @@
             "last_commit": "2025-01-26T21:39:06Z",
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29260
+            "stars": 29257
           }
         },
         {
@@ -709,7 +709,7 @@
             "last_commit": "2026-01-09T03:05:47Z",
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27505
+            "stars": 27507
           }
         },
         {
@@ -723,7 +723,7 @@
             "last_commit": "2026-01-09T03:05:47Z",
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27505
+            "stars": 27507
           }
         },
         {
@@ -737,7 +737,7 @@
             "last_commit": "2026-01-09T03:05:47Z",
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27505
+            "stars": 27507
           }
         },
         {
@@ -751,7 +751,7 @@
             "last_commit": "2026-03-05T13:55:17Z",
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21583
+            "stars": 21591
           }
         },
         {
@@ -779,7 +779,7 @@
             "last_commit": "2024-06-27T04:05:08Z",
             "owner": "zai-org",
             "repo": "ChatGLM2-6B",
-            "stars": 15532
+            "stars": 15530
           }
         },
         {
@@ -807,7 +807,7 @@
             "last_commit": "2026-07-27T06:50:07Z",
             "owner": "OpenBMB",
             "repo": "MiniCPM",
-            "stars": 10172
+            "stars": 10174
           }
         },
         {
@@ -835,7 +835,7 @@
             "last_commit": "2024-02-04T12:22:16Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-LLM",
-            "stars": 7230
+            "stars": 7237
           }
         },
         {
@@ -849,7 +849,7 @@
             "last_commit": "2024-07-18T14:23:01Z",
             "owner": "baichuan-inc",
             "repo": "Baichuan-7B",
-            "stars": 5652
+            "stars": 5651
           }
         },
         {
@@ -891,7 +891,7 @@
             "last_commit": "2023-06-07T04:52:53Z",
             "owner": "InternLM",
             "repo": "InternLM-techreport",
-            "stars": 894
+            "stars": 893
           }
         }
       ],
@@ -911,7 +911,7 @@
             "last_commit": "2024-12-17T03:55:52Z",
             "owner": "microsoft",
             "repo": "LoRA",
-            "stars": 13734
+            "stars": 13738
           }
         },
         {
@@ -936,10 +936,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-14T15:11:09Z",
+            "last_commit": "2026-08-14T15:52:02Z",
             "owner": "huggingface",
             "repo": "blog",
-            "stars": 3497
+            "stars": 3496
           }
         },
         {
@@ -1173,7 +1173,7 @@
             "last_commit": "2026-08-13T12:45:56Z",
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 74087
+            "stars": 74118
           }
         },
         {
@@ -1201,7 +1201,7 @@
             "last_commit": "2025-07-02T03:39:31Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT-Hub",
-            "stars": 2004
+            "stars": 2005
           }
         },
         {
@@ -1242,7 +1242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:14:15.590Z",
+    "last_updated": "2026-08-15T14:46:19.096Z",
     "original_repository": "eosphoros-ai/Awesome-Text2SQL",
     "original_repository_sha": "ab3fd156c491abdd9ba04da5bdd7b861c2ee0da2",
     "enhanced_repository": "enhansome/enhansome-Awesome-Text2SQL",
