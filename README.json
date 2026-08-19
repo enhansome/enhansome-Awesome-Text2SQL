@@ -1,17 +1,7 @@
 {
   "items": [
     {
-      "description": "We warmly welcome contributions from everyone, whether you've found a typo, a bug, have a suggestion, or want to share a resource related to LLM+Text2SQL. For detailed guidelines on how to contribute, please see our CONTRIBUTING.md file.",
-      "items": [],
-      "title": "🌱 How to Contribute"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🔔 Leaderboard"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -20,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 803643412,
             "language": "Python",
             "last_commit": "2026-07-28T08:54:04Z",
             "owner": "HKUSTDial",
@@ -34,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1056221118,
             "language": null,
             "last_commit": "2026-08-03T00:50:21Z",
             "owner": "DEEP-PolyU",
@@ -45,7 +37,7 @@
       "title": "📖 Survey"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -54,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 648474263,
             "language": "Python",
             "last_commit": "2025-07-02T03:39:31Z",
             "owner": "eosphoros-ai",
@@ -68,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 100076574,
             "language": "HTML",
             "last_commit": "2025-10-06T11:06:57Z",
             "owner": "salesforce",
@@ -82,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 100076574,
             "language": "HTML",
             "last_commit": "2025-10-06T11:06:57Z",
             "owner": "salesforce",
@@ -96,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 100076574,
             "language": "HTML",
             "last_commit": "2025-10-06T11:06:57Z",
             "owner": "salesforce",
@@ -110,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 100076574,
             "language": "HTML",
             "last_commit": "2025-10-06T11:06:57Z",
             "owner": "salesforce",
@@ -124,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 514217147,
             "language": "Python",
             "last_commit": "2026-06-10T11:18:20Z",
             "owner": "AlibabaResearch",
@@ -138,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 514217147,
             "language": "Python",
             "last_commit": "2026-06-10T11:18:20Z",
             "owner": "AlibabaResearch",
@@ -152,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151149541,
             "language": "Python",
             "last_commit": "2026-04-18T02:03:24Z",
             "owner": "budzianowski",
@@ -166,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 684399912,
             "language": "Python",
             "last_commit": "2025-03-07T03:42:22Z",
             "owner": "BeachWang",
@@ -180,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 269777071,
             "language": "Python",
             "last_commit": "2021-08-26T01:24:53Z",
             "owner": "facebookresearch",
@@ -194,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265127379,
             "language": "Python",
             "last_commit": "2023-08-22T16:19:45Z",
             "owner": "microsoft",
@@ -208,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110507963,
             "language": "Python",
             "last_commit": "2023-10-10T17:23:44Z",
             "owner": "xiaojunxu",
@@ -222,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 614949365,
             "language": "Python",
             "last_commit": "2024-03-30T13:41:47Z",
             "owner": "MohammadrezaPourreza",
@@ -236,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 401779782,
             "language": "Haskell",
             "last_commit": "2023-10-18T02:48:43Z",
             "owner": "ServiceNow",
@@ -250,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 733015849,
             "language": "Python",
             "last_commit": "2025-02-27T04:02:02Z",
             "owner": "wbbeyourself",
@@ -264,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 547117825,
             "language": "Python",
             "last_commit": "2023-08-25T14:59:44Z",
             "owner": "xlang-ai",
@@ -278,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 218888365,
             "language": "Python",
             "last_commit": "2023-07-22T20:20:22Z",
             "owner": "microsoft",
@@ -292,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 600767872,
             "language": "Python",
             "last_commit": "2024-05-13T02:45:33Z",
             "owner": "RUCKBReasoning",
@@ -306,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 817915982,
             "language": "Python",
             "last_commit": "2025-05-26T21:26:00Z",
             "owner": "ShayanTalaei",
@@ -320,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 317379275,
             "language": "Jupyter Notebook",
             "last_commit": "2026-06-02T18:08:48Z",
             "owner": "salesforce",
@@ -334,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193267613,
             "language": "Python",
             "last_commit": "2024-07-25T10:15:43Z",
             "owner": "ryanzhumich",
@@ -348,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 373155611,
             "language": "Python",
             "last_commit": "2022-08-02T06:45:58Z",
             "owner": "X-LANCE",
@@ -362,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186848417,
             "language": "Python",
             "last_commit": "2024-07-25T10:15:57Z",
             "owner": "benbogin",
@@ -376,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 749810395,
             "language": "Python",
             "last_commit": "2025-10-02T04:07:45Z",
             "owner": "HKUSTDial",
@@ -390,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153428054,
             "language": "Python",
             "last_commit": "2022-03-22T19:55:29Z",
             "owner": "taoyds",
@@ -404,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 660099519,
             "language": "Python",
             "last_commit": "2025-08-25T08:54:57Z",
             "owner": "tshu-w",
@@ -418,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129334631,
             "language": "Python",
             "last_commit": "2022-04-15T17:19:31Z",
             "owner": "taoyds",
@@ -432,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 612797794,
             "language": "Python",
             "last_commit": "2023-06-14T01:07:03Z",
             "owner": "THU-BPM",
@@ -446,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 204171882,
             "language": "Python",
             "last_commit": "2024-07-25T10:16:36Z",
             "owner": "benbogin",
@@ -460,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 283581252,
             "language": "Python",
             "last_commit": "2023-12-20T21:10:52Z",
             "owner": "lyuqin",
@@ -474,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 547878739,
             "language": "Python",
             "last_commit": "2023-02-23T03:48:19Z",
             "owner": "LUMIA-Group",
@@ -488,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 862763080,
             "language": "Python",
             "last_commit": "2024-12-07T16:17:55Z",
             "owner": "HasanAlpCaferoglu",
@@ -502,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 439738419,
             "language": null,
             "last_commit": "2023-09-20T17:49:43Z",
             "owner": "Chia-Hsuan-Lee",
@@ -516,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 331743442,
             "language": "Python",
             "last_commit": "2021-09-04T22:36:15Z",
             "owner": "taoyds",
@@ -530,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 311984412,
             "language": "Python",
             "last_commit": "2020-11-15T16:10:44Z",
             "owner": "headacheboy",
@@ -544,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 627289319,
             "language": "Python",
             "last_commit": "2023-05-13T05:19:58Z",
             "owner": "ruc-datalab",
@@ -558,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 474919881,
             "language": "Python",
             "last_commit": "2022-04-13T14:56:39Z",
             "owner": "JuruoMP",
@@ -569,7 +598,7 @@
       "title": "💬 Classic Model"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -578,11 +607,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 601538369,
             "language": "Python",
             "last_commit": "2025-01-26T21:42:26Z",
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59562
+            "stars": 59564
           }
         },
         {
@@ -592,11 +622,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 601538369,
             "language": "Python",
             "last_commit": "2025-01-26T21:42:26Z",
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59562
+            "stars": 59564
           }
         },
         {
@@ -611,16 +642,18 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 349016971,
                 "language": "Python",
                 "last_commit": "2023-11-03T08:26:49Z",
                 "owner": "THUDM",
                 "repo": "GLM",
-                "stars": 3644
+                "stars": 3645
               }
             }
           ],
           "repo_info": {
             "archived": false,
+            "id": 613349035,
             "language": "Python",
             "last_commit": "2024-06-27T04:05:25Z",
             "owner": "zai-org",
@@ -635,6 +668,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 615882673,
             "language": "Python",
             "last_commit": "2026-05-01T00:25:53Z",
             "owner": "lm-sys",
@@ -649,6 +683,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 612427246,
             "language": "Python",
             "last_commit": "2024-07-17T09:43:05Z",
             "owner": "tatsu-lab",
@@ -663,6 +698,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 772699441,
             "language": "Python",
             "last_commit": "2025-01-26T21:39:06Z",
             "owner": "meta-llama",
@@ -677,6 +713,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 772699441,
             "language": "Python",
             "last_commit": "2025-01-26T21:39:06Z",
             "owner": "meta-llama",
@@ -691,6 +728,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 772699441,
             "language": "Python",
             "last_commit": "2025-01-26T21:39:06Z",
             "owner": "meta-llama",
@@ -705,11 +743,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 752925682,
             "language": "Python",
             "last_commit": "2026-01-09T03:05:47Z",
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27527
+            "stars": 27535
           }
         },
         {
@@ -719,11 +758,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 752925682,
             "language": "Python",
             "last_commit": "2026-01-09T03:05:47Z",
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27527
+            "stars": 27535
           }
         },
         {
@@ -733,11 +773,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 752925682,
             "language": "Python",
             "last_commit": "2026-01-09T03:05:47Z",
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27527
+            "stars": 27535
           }
         },
         {
@@ -747,11 +788,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 674075444,
             "language": "Python",
             "last_commit": "2026-03-05T13:55:17Z",
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21606
+            "stars": 21607
           }
         },
         {
@@ -761,11 +803,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 682604510,
             "language": "Python",
             "last_commit": "2024-08-12T12:49:54Z",
             "owner": "meta-llama",
             "repo": "codellama",
-            "stars": 16273
+            "stars": 16272
           }
         },
         {
@@ -775,11 +818,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 657895120,
             "language": "Python",
             "last_commit": "2024-06-27T04:05:08Z",
             "owner": "zai-org",
             "repo": "ChatGLM2-6B",
-            "stars": 15529
+            "stars": 15530
           }
         },
         {
@@ -789,11 +833,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 697302510,
             "language": "Jupyter Notebook",
             "last_commit": "2026-06-16T15:40:44Z",
             "owner": "mistralai",
             "repo": "mistral-inference",
-            "stars": 10833
+            "stars": 10832
           }
         },
         {
@@ -803,11 +848,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 749703336,
             "language": "Jupyter Notebook",
             "last_commit": "2026-07-27T06:50:07Z",
             "owner": "OpenBMB",
             "repo": "MiniCPM",
-            "stars": 10197
+            "stars": 10204
           }
         },
         {
@@ -817,6 +863,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 631580207,
             "language": "Python",
             "last_commit": "2025-06-07T01:35:05Z",
             "owner": "nlpxucan",
@@ -831,11 +878,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 725062669,
             "language": "Makefile",
             "last_commit": "2024-02-04T12:22:16Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-LLM",
-            "stars": 7243
+            "stars": 7246
           }
         },
         {
@@ -845,6 +893,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 653595084,
             "language": "Python",
             "last_commit": "2024-07-18T14:23:01Z",
             "owner": "baichuan-inc",
@@ -859,6 +908,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 685444668,
             "language": "Python",
             "last_commit": "2024-11-08T08:31:29Z",
             "owner": "baichuan-inc",
@@ -873,6 +923,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 664752008,
             "language": "Python",
             "last_commit": "2023-09-06T17:16:53Z",
             "owner": "baichuan-inc",
@@ -887,6 +938,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 648849579,
             "language": null,
             "last_commit": "2023-06-07T04:52:53Z",
             "owner": "InternLM",
@@ -898,7 +950,7 @@
       "title": "🔥 Base Model"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -907,11 +959,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 378010497,
             "language": "Python",
             "last_commit": "2024-12-17T03:55:52Z",
             "owner": "microsoft",
             "repo": "LoRA",
-            "stars": 13745
+            "stars": 13747
           }
         },
         {
@@ -921,11 +974,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 639346169,
             "language": "Jupyter Notebook",
             "last_commit": "2024-06-10T19:20:16Z",
             "owner": "artidoro",
             "repo": "qlora",
-            "stars": 10990
+            "stars": 10991
           }
         },
         {
@@ -935,8 +989,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 240541316,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-18T13:47:09Z",
+            "last_commit": "2026-08-18T15:37:09Z",
             "owner": "huggingface",
             "repo": "blog",
             "stars": 3497
@@ -949,6 +1004,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 417157956,
             "language": "Python",
             "last_commit": "2023-11-16T04:38:09Z",
             "owner": "THUDM",
@@ -963,6 +1019,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 348953105,
             "language": "Python",
             "last_commit": "2022-10-06T12:36:12Z",
             "owner": "THUDM",
@@ -977,6 +1034,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 625845015,
             "language": "Python",
             "last_commit": "2023-09-22T03:26:38Z",
             "owner": "GanjinZero",
@@ -991,6 +1049,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 660450114,
             "language": "Python",
             "last_commit": "2024-10-05T09:52:35Z",
             "owner": "Zyq-scut",
@@ -1002,7 +1061,7 @@
       "title": "💡 Fine-tuning"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1011,6 +1070,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 100076574,
             "language": "HTML",
             "last_commit": "2025-10-06T11:06:57Z",
             "owner": "salesforce",
@@ -1025,6 +1085,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 514217147,
             "language": "Python",
             "last_commit": "2026-06-10T11:18:20Z",
             "owner": "AlibabaResearch",
@@ -1039,6 +1100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150050402,
             "language": "Python",
             "last_commit": "2024-05-29T03:16:42Z",
             "owner": "taoyds",
@@ -1053,6 +1115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 845868425,
             "language": "HTML",
             "last_commit": "2026-08-12T13:01:36Z",
             "owner": "xlang-ai",
@@ -1067,6 +1130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202292691,
             "language": "Python",
             "last_commit": "2021-03-12T12:00:08Z",
             "owner": "taolusi",
@@ -1081,6 +1145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 817477385,
             "language": "Python",
             "last_commit": "2025-11-06T15:18:47Z",
             "owner": "bird-bench",
@@ -1095,6 +1160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193794944,
             "language": "Python",
             "last_commit": "2023-05-24T09:02:29Z",
             "owner": "taoyds",
@@ -1109,24 +1175,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 439738419,
             "language": null,
             "last_commit": "2023-09-20T17:49:43Z",
             "owner": "Chia-Hsuan-Lee",
             "repo": "KaggleDBQA",
             "stars": 44
           }
-        },
-        {
-          "node_type": "item",
-          "title": "CHASE [paper",
-          "description": "] [code] [dataset]",
-          "children": []
         }
       ],
       "title": "💪 Dataset"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1135,11 +1196,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1027340108,
             "language": "Python",
-            "last_commit": "2026-08-18T14:14:01Z",
+            "last_commit": "2026-08-19T11:35:24Z",
             "owner": "FalkorDB",
             "repo": "QueryWeaver",
-            "stars": 1066
+            "stars": 1067
           }
         },
         {
@@ -1149,6 +1211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 828661899,
             "language": "Python",
             "last_commit": "2025-02-14T17:41:42Z",
             "owner": "premAI-io",
@@ -1160,7 +1223,7 @@
       "title": "📦 Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1169,11 +1232,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 646410686,
             "language": "Python",
             "last_commit": "2026-08-18T11:49:47Z",
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 74197
+            "stars": 74227
           }
         },
         {
@@ -1183,6 +1247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 679890936,
             "language": "Jupyter Notebook",
             "last_commit": "2024-05-23T03:06:26Z",
             "owner": "defog-ai",
@@ -1197,6 +1262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 648474263,
             "language": "Python",
             "last_commit": "2025-07-02T03:39:31Z",
             "owner": "eosphoros-ai",
@@ -1211,6 +1277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 679138775,
             "language": "Jupyter Notebook",
             "last_commit": "2023-11-22T15:59:43Z",
             "owner": "run-llama",
@@ -1225,6 +1292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 946054524,
             "language": "Python",
             "last_commit": "2026-05-01T11:22:45Z",
             "owner": "datrics-ai",
@@ -1234,16 +1302,12 @@
         }
       ],
       "title": "🔧 Practice Project"
-    },
-    {
-      "description": "If you find useful for your research or development, please cite the following paper:",
-      "items": [],
-      "title": "🔗 Citation"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:00:40.779Z",
+    "last_updated": "2026-08-19T12:10:58.097Z",
     "original_repository": "eosphoros-ai/Awesome-Text2SQL",
+    "original_repository_id": 686871971,
     "original_repository_sha": "ab3fd156c491abdd9ba04da5bdd7b861c2ee0da2",
     "enhanced_repository": "enhansome/enhansome-Awesome-Text2SQL",
     "enhanced_repository_description": null,
