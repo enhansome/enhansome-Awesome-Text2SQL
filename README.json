@@ -612,7 +612,7 @@
             "last_commit": "2025-01-26T21:42:26Z",
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59564
+            "stars": 59565
           }
         },
         {
@@ -627,7 +627,7 @@
             "last_commit": "2025-01-26T21:42:26Z",
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59564
+            "stars": 59565
           }
         },
         {
@@ -658,7 +658,7 @@
             "last_commit": "2024-06-27T04:05:25Z",
             "owner": "zai-org",
             "repo": "ChatGLM-6B",
-            "stars": 40988
+            "stars": 40989
           }
         },
         {
@@ -703,7 +703,7 @@
             "last_commit": "2025-01-26T21:39:06Z",
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29252
+            "stars": 29253
           }
         },
         {
@@ -718,7 +718,7 @@
             "last_commit": "2025-01-26T21:39:06Z",
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29252
+            "stars": 29253
           }
         },
         {
@@ -733,7 +733,7 @@
             "last_commit": "2025-01-26T21:39:06Z",
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29252
+            "stars": 29253
           }
         },
         {
@@ -793,7 +793,7 @@
             "last_commit": "2026-03-05T13:55:17Z",
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21607
+            "stars": 21609
           }
         },
         {
@@ -883,7 +883,7 @@
             "last_commit": "2024-02-04T12:22:16Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-LLM",
-            "stars": 7246
+            "stars": 7247
           }
         },
         {
@@ -964,7 +964,7 @@
             "last_commit": "2024-12-17T03:55:52Z",
             "owner": "microsoft",
             "repo": "LoRA",
-            "stars": 13747
+            "stars": 13749
           }
         },
         {
@@ -1198,7 +1198,7 @@
             "archived": false,
             "id": 1027340108,
             "language": "Python",
-            "last_commit": "2026-08-19T11:35:24Z",
+            "last_commit": "2026-08-19T14:47:53Z",
             "owner": "FalkorDB",
             "repo": "QueryWeaver",
             "stars": 1067
@@ -1237,7 +1237,7 @@
             "last_commit": "2026-08-18T11:49:47Z",
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 74227
+            "stars": 74228
           }
         },
         {
@@ -1305,7 +1305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:10:58.097Z",
+    "last_updated": "2026-08-19T15:00:43.180Z",
     "original_repository": "eosphoros-ai/Awesome-Text2SQL",
     "original_repository_id": 686871971,
     "original_repository_sha": "ab3fd156c491abdd9ba04da5bdd7b861c2ee0da2",
