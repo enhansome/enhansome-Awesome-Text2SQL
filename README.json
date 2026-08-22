@@ -15,7 +15,7 @@
             "last_commit": "2026-07-28T08:54:04Z",
             "owner": "HKUSTDial",
             "repo": "NL2SQL_Handbook",
-            "stars": 1567
+            "stars": 1568
           }
         },
         {
@@ -612,7 +612,7 @@
             "last_commit": "2025-01-26T21:42:26Z",
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59569
+            "stars": 59570
           }
         },
         {
@@ -627,7 +627,7 @@
             "last_commit": "2025-01-26T21:42:26Z",
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59569
+            "stars": 59570
           }
         },
         {
@@ -673,7 +673,7 @@
             "last_commit": "2026-05-01T00:25:53Z",
             "owner": "lm-sys",
             "repo": "FastChat",
-            "stars": 39515
+            "stars": 39519
           }
         },
         {
@@ -703,7 +703,7 @@
             "last_commit": "2025-01-26T21:39:06Z",
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29252
+            "stars": 29251
           }
         },
         {
@@ -718,7 +718,7 @@
             "last_commit": "2025-01-26T21:39:06Z",
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29252
+            "stars": 29251
           }
         },
         {
@@ -733,7 +733,7 @@
             "last_commit": "2025-01-26T21:39:06Z",
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29252
+            "stars": 29251
           }
         },
         {
@@ -748,7 +748,7 @@
             "last_commit": "2026-01-09T03:05:47Z",
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27543
+            "stars": 27547
           }
         },
         {
@@ -763,7 +763,7 @@
             "last_commit": "2026-01-09T03:05:47Z",
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27543
+            "stars": 27547
           }
         },
         {
@@ -778,7 +778,7 @@
             "last_commit": "2026-01-09T03:05:47Z",
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27543
+            "stars": 27547
           }
         },
         {
@@ -793,7 +793,7 @@
             "last_commit": "2026-03-05T13:55:17Z",
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21626
+            "stars": 21628
           }
         },
         {
@@ -808,7 +808,7 @@
             "last_commit": "2024-08-12T12:49:54Z",
             "owner": "meta-llama",
             "repo": "codellama",
-            "stars": 16267
+            "stars": 16266
           }
         },
         {
@@ -853,7 +853,7 @@
             "last_commit": "2026-07-27T06:50:07Z",
             "owner": "OpenBMB",
             "repo": "MiniCPM",
-            "stars": 10217
+            "stars": 10218
           }
         },
         {
@@ -883,7 +883,7 @@
             "last_commit": "2024-02-04T12:22:16Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-LLM",
-            "stars": 7252
+            "stars": 7253
           }
         },
         {
@@ -964,7 +964,7 @@
             "last_commit": "2024-12-17T03:55:52Z",
             "owner": "microsoft",
             "repo": "LoRA",
-            "stars": 13756
+            "stars": 13761
           }
         },
         {
@@ -979,7 +979,7 @@
             "last_commit": "2024-06-10T19:20:16Z",
             "owner": "artidoro",
             "repo": "qlora",
-            "stars": 10991
+            "stars": 10992
           }
         },
         {
@@ -1009,7 +1009,7 @@
             "last_commit": "2023-11-16T04:38:09Z",
             "owner": "THUDM",
             "repo": "P-tuning-v2",
-            "stars": 2077
+            "stars": 2078
           }
         },
         {
@@ -1201,7 +1201,7 @@
             "last_commit": "2026-08-20T12:55:26Z",
             "owner": "FalkorDB",
             "repo": "QueryWeaver",
-            "stars": 1069
+            "stars": 1070
           }
         },
         {
@@ -1237,7 +1237,7 @@
             "last_commit": "2026-08-20T10:53:39Z",
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 74279
+            "stars": 74289
           }
         },
         {
@@ -1305,7 +1305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:02:08.822Z",
+    "last_updated": "2026-08-22T14:46:07.601Z",
     "original_repository": "eosphoros-ai/Awesome-Text2SQL",
     "original_repository_id": 686871971,
     "original_repository_sha": "ab3fd156c491abdd9ba04da5bdd7b861c2ee0da2",
