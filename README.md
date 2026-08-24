@@ -88,7 +88,7 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
 
 * (2024-arXiv, None) **DB-GPT-Hub**: Towards Open Benchmarking Text-to-SQL Empowered by Large Language Models
   \[[paper](https://arxiv.org/pdf/2406.11434)]
-  \[[code](https://github.com/eosphoros-ai/DB-GPT-Hub) ⭐ 2,007 | 🐛 73 | 🌐 Python | 📅 2025-07-02]
+  \[[code](https://github.com/eosphoros-ai/DB-GPT-Hub) ⭐ 2,008 | 🐛 73 | 🌐 Python | 📅 2025-07-02]
   [![](https://img.shields.io/badge/Spider-green)](https://yale-lily.github.io/spider)
   [![](https://img.shields.io/badge/BIRD-yellow)](https://bird-bench.github.io/)
 
@@ -130,7 +130,7 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
 
 * (2023-arXiv, None) Text-to-SQL Empowered by Large Language Models: A Benchmark Evaluation
   \[[paper](https://arxiv.org/pdf/2308.15363v2.pdf)]
-  \[[code](https://github.com/beachwang/dail-sql) ⭐ 640 | 🐛 11 | 🌐 Python | 📅 2025-03-07]
+  \[[code](https://github.com/beachwang/dail-sql) ⭐ 641 | 🐛 11 | 🌐 Python | 📅 2025-03-07]
   [![](https://img.shields.io/badge/Spider-green)](https://yale-lily.github.io/spider)
   [![](https://img.shields.io/badge/Spider--Realistic-yellow)](https://aclanthology.org/2021.naacl-main.105.pdf)
 
@@ -357,10 +357,10 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
 
 ## 🔥 Base Model
 
-* Llama \[[paper](https://arxiv.org/pdf/2302.13971.pdf)] \[[code](https://github.com/facebookresearch/llama) ⭐ 59,572 | 🐛 532 | 🌐 Python | 📅 2025-01-26] \[[model](https://huggingface.co/meta-llama)]
+* Llama \[[paper](https://arxiv.org/pdf/2302.13971.pdf)] \[[code](https://github.com/facebookresearch/llama) ⭐ 59,573 | 🐛 532 | 🌐 Python | 📅 2025-01-26] \[[model](https://huggingface.co/meta-llama)]
   * 2023/02, Meta AI proposes the open source LLM Llama, which has four scales: 7b, 13b, 33b, and 65b.
 
-* Llama 2 \[[paper](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)] \[[code](https://github.com/facebookresearch/llama) ⭐ 59,572 | 🐛 532 | 🌐 Python | 📅 2025-01-26] \[[model](https://huggingface.co/meta-llama)]
+* Llama 2 \[[paper](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)] \[[code](https://github.com/facebookresearch/llama) ⭐ 59,573 | 🐛 532 | 🌐 Python | 📅 2025-01-26] \[[model](https://huggingface.co/meta-llama)]
   * 2023/07, Meta AI proposes the second-generation Llama series open-source LLM Llama 2. Compared with Llama 1, the training data is 40% more, and the context length is doubled. The model has four specifications: 7b, 13b, 34b, and 70b, but 34b is not open source.
 
 * ChatGLM \[[paper](https://arxiv.org/pdf/2103.10360.pdf)] \[[code](https://github.com/THUDM/ChatGLM-6B/blob/main/README.md) ⭐ 40,984 | 🐛 605 | 🌐 Python | 📅 2024-06-27] \[[model](https://huggingface.co/THUDM/chatglm-6b)]
@@ -406,7 +406,7 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
   * 2023/10, Mistral-AI company proposes the open source LLM Mistral 7B, a 7–billion-parameter language model engineered for superior performance and efficiency. Mistral 7B outperforms the best open 13B model (Llama 2) across all evaluated benchmarks, and the best released 34B model (Llama 1) in reasoning, mathematics, and code generation. They also provide a model fine-tuned to follow instructions, Mistral 7B – Instruct, that surpasses Llama 2 13B–chat model both on human and automated benchmarks. 2023/12，They propose the open source LLM Mixtral-8x7B, a pretrained generative Sparse Mixture of Experts, which outperforms Llama 2 70B on most benchmarks.
 
 * MiniCPM \[[paper](https://shengdinghu.notion.site/MiniCPM-c805a17c5c8046398914e47f0542095a)]
-  \[[code](https://github.com/OpenBMB/MiniCPM) ⭐ 10,225 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-07-27]
+  \[[code](https://github.com/OpenBMB/MiniCPM) ⭐ 10,226 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-07-27]
   \[[model](https://huggingface.co/openbmb)]
   * 2024/02, ModelBest Inc. and TsinghuaNLP proposes the open source LLM MiniCPM, which is an End-Side LLM, with only 2.4B parameters excluding embeddings (2.7B in total). It is worth that MiniCPM has very close performance compared with Mistral-7B on open-sourced general benchmarks with better ability on Chinese, Mathematics and Coding after SFT. The overall performance exceeds Llama2-13B, MPT-30B, Falcon-40B, etc.
 
@@ -414,7 +414,7 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
   * 2023/04, Peking University and Microsoft propose WizardLM, a LLM of evolutionary instructions, with three specifications of 7b, 13b, and 30b. 2023/06, They propose WizardMath, a LLM in the field of mathematics. 2023/08, They propose WizardCoder, a LLM in the field of code.
 
 * Deepseek \[[paper](https://arxiv.org/pdf/2401.02954.pdf)]
-  \[[code](https://github.com/deepseek-ai/DeepSeek-LLM) ⭐ 7,254 | 🐛 58 | 🌐 Makefile | 📅 2024-02-04]
+  \[[code](https://github.com/deepseek-ai/DeepSeek-LLM) ⭐ 7,255 | 🐛 58 | 🌐 Makefile | 📅 2024-02-04]
   \[[model](https://huggingface.co/deepseek-ai)]
   * 2023/11, DeepSeek-AI company proposes the open source LLM deepseek, which has been trained from scratch on a vast dataset of 2 trillion tokens in both English and Chinese. Similarly, the deepseek LLM mainly has two categories: base and chat, with two parameter formats of 7b and 67b respectively. Data from its paper shows that deepSeek LLM 67b surpasses LLaMA-2 70b across a range of benchmarks, especially in the domains of code, mathematics, and reasoning. Furthermore, DeepSeek LLM 67B Chat exhibits superior performance compared to GPT-3.5.
 
@@ -533,8 +533,8 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
 
 ## 🔧 Practice Project
 
-* [LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning) ⭐ 74,310 | 🐛 1,129 | 🌐 Python | 📅 2026-08-20
-  [![GitHub Repo stars](https://img.shields.io/github/stars/hiyouga/LLaMA-Efficient-Tuning?style=social)](https://github.com/hiyouga/LLaMA-Efficient-Tuning/stargazers) ⭐ 74,310 | 🐛 1,129 | 🌐 Python | 📅 2026-08-20
+* [LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning) ⭐ 74,312 | 🐛 1,129 | 🌐 Python | 📅 2026-08-20
+  [![GitHub Repo stars](https://img.shields.io/github/stars/hiyouga/LLaMA-Efficient-Tuning?style=social)](https://github.com/hiyouga/LLaMA-Efficient-Tuning/stargazers) ⭐ 74,312 | 🐛 1,129 | 🌐 Python | 📅 2026-08-20
   ![last commit](https://img.shields.io/github/last-commit/hiyouga/LLaMA-Efficient-Tuning?color=green)
   * Easy-to-use LLM fine-tuning framework (LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, Chat
 
@@ -543,8 +543,8 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
   ![last commit](https://img.shields.io/github/last-commit/defog-ai/sqlcoder?color=green)
   * The Defog organization proposes an advanced Text-to-SQL LLM, which has outstanding performance and is better than GPT3.5, wizardcoder and starcoder, etc., second only to GPT4.
 
-* [DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub) ⭐ 2,007 | 🐛 73 | 🌐 Python | 📅 2025-07-02
-  [![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT-Hub?style=social)](https://github.com/eosphoros-ai/DB-GPT-Hub/stargazers) ⭐ 2,007 | 🐛 73 | 🌐 Python | 📅 2025-07-02
+* [DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub) ⭐ 2,008 | 🐛 73 | 🌐 Python | 📅 2025-07-02
+  [![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT-Hub?style=social)](https://github.com/eosphoros-ai/DB-GPT-Hub/stargazers) ⭐ 2,008 | 🐛 73 | 🌐 Python | 📅 2025-07-02
   ![last commit](https://img.shields.io/github/last-commit/eosphoros-ai/DB-GPT-Hub?color=green)
   * The eosphoros organization proposes an open source project focusing on Text-to-SQL fine-tuning based on LLM, including large-scale model download, dataset preprocessing, fine-tuning technologies such as LoRA and QLoRA, model prediction, model evaluation and other steps.
 

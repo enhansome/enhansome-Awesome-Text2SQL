@@ -51,7 +51,7 @@
             "last_commit": "2025-07-02T03:39:31Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT-Hub",
-            "stars": 2007
+            "stars": 2008
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2025-03-07T03:42:22Z",
             "owner": "BeachWang",
             "repo": "DAIL-SQL",
-            "stars": 640
+            "stars": 641
           }
         },
         {
@@ -612,7 +612,7 @@
             "last_commit": "2025-01-26T21:42:26Z",
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59572
+            "stars": 59573
           }
         },
         {
@@ -627,7 +627,7 @@
             "last_commit": "2025-01-26T21:42:26Z",
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59572
+            "stars": 59573
           }
         },
         {
@@ -853,7 +853,7 @@
             "last_commit": "2026-07-27T06:50:07Z",
             "owner": "OpenBMB",
             "repo": "MiniCPM",
-            "stars": 10225
+            "stars": 10226
           }
         },
         {
@@ -883,7 +883,7 @@
             "last_commit": "2024-02-04T12:22:16Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-LLM",
-            "stars": 7254
+            "stars": 7255
           }
         },
         {
@@ -1237,7 +1237,7 @@
             "last_commit": "2026-08-20T10:53:39Z",
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 74310
+            "stars": 74312
           }
         },
         {
@@ -1267,7 +1267,7 @@
             "last_commit": "2025-07-02T03:39:31Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT-Hub",
-            "stars": 2007
+            "stars": 2008
           }
         },
         {
@@ -1305,7 +1305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:58:17.527Z",
+    "last_updated": "2026-08-24T15:08:57.216Z",
     "original_repository": "eosphoros-ai/Awesome-Text2SQL",
     "original_repository_id": 686871971,
     "original_repository_sha": "ab3fd156c491abdd9ba04da5bdd7b861c2ee0da2",
