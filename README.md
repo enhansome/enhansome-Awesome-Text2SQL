@@ -57,7 +57,7 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
 
 * (2025-TKDE, CCF-A) A Survey of Text-to-SQL in the Era of LLMs: Where are we, and where are we going?
   \[[paper](https://arxiv.org/pdf/2408.05109)]
-  \[[code](https://github.com/HKUSTDial/NL2SQL_Handbook) ⭐ 1,573 | 🐛 0 | 🌐 Python | 📅 2026-07-28]
+  \[[code](https://github.com/HKUSTDial/NL2SQL_Handbook) ⭐ 1,574 | 🐛 0 | 🌐 Python | 📅 2026-07-28]
 
 * (2025-TKDE, CCF-A) Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL
   \[[paper](https://arxiv.org/pdf/2406.08426)]
@@ -112,12 +112,12 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
 
 * (2023-arXiv, None) Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQLs
   \[[paper](https://arxiv.org/pdf/2305.03111.pdf)]
-  \[[code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/bird) ⭐ 1,579 | 🐛 79 | 🌐 Python | 📅 2026-06-10]
+  \[[code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/bird) ⭐ 1,580 | 🐛 79 | 🌐 Python | 📅 2026-06-10]
   [![](https://img.shields.io/badge/BIRD-green)](https://bird-bench.github.io/)
 
 * (2022-EMNLP, CCF-B) **STAR**: SQL Guided Pre-Training for Context-dependent Text-to-SQL Parsing
   \[[paper](https://arxiv.org/pdf/2210.11888v2.pdf)]
-  \[[code](https://github.com/alibabaresearch/damo-convai) ⭐ 1,579 | 🐛 79 | 🌐 Python | 📅 2026-06-10]
+  \[[code](https://github.com/alibabaresearch/damo-convai) ⭐ 1,580 | 🐛 79 | 🌐 Python | 📅 2026-06-10]
   [![](https://img.shields.io/badge/SParC-green)](https://arxiv.org/pdf/1906.02285.pdf)
   [![](https://img.shields.io/badge/CoSQL-yellow)](https://arxiv.org/pdf/1909.05378.pdf)
 
@@ -125,7 +125,7 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
   \[[paper](https://openreview.net/pdf?id=oyZxhRI2RiE)]
   [![](https://img.shields.io/badge/SParC-green)](https://arxiv.org/pdf/1906.02285.pdf)
   [![](https://img.shields.io/badge/CoSQL-yellow)](https://arxiv.org/pdf/1909.05378.pdf)
-  [![](https://img.shields.io/badge/MWoZ-blue)](https://github.com/budzianowski/multiwoz) ⭐ 956 | 🐛 21 | 🌐 Python | 📅 2026-04-18
+  [![](https://img.shields.io/badge/MWoZ-blue)](https://github.com/budzianowski/multiwoz) ⭐ 955 | 🐛 21 | 🌐 Python | 📅 2026-04-18
   [![](https://img.shields.io/badge/SQA-red)](https://www.microsoft.com/en-us/download/details.aspx?id=54253)
 
 * (2023-arXiv, None) Text-to-SQL Empowered by Large Language Models: A Benchmark Evaluation
@@ -224,18 +224,18 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
   [![](https://img.shields.io/badge/Spider-green)](https://yale-lily.github.io/spider)
   [![](https://img.shields.io/badge/BIRD-yellow)](https://bird-bench.github.io/)
 
-* (2018-EMNLP, CCF-B) **SyntaxSQLNet**: Syntax Tree Networks for Complex and Cross-DomainText-to-SQL Task
-  \[[paper](https://arxiv.org/pdf/1810.05237v2.pdf)]
-  \[[code](https://github.com/taoyds/syntaxsql) ⭐ 137 | 🐛 15 | 🌐 Python | 📅 2022-03-22]
-  [![](https://img.shields.io/badge/Spider-green)](https://yale-lily.github.io/spider)
-
 * (2025-EDBT, CCF-B) **DBCᴏᴘɪʟᴏᴛ**: Natural Language Querying over Massive Databases via Schema Routing
   \[[paper](https://arxiv.org/pdf/2312.03463.pdf)]
-  \[[code](https://github.com/tshu-w/DBCopilot) ⭐ 136 | 🐛 4 | 🌐 Python | 📅 2025-08-25]
+  \[[code](https://github.com/tshu-w/DBCopilot) ⭐ 137 | 🐛 4 | 🌐 Python | 📅 2025-08-25]
   [![](https://img.shields.io/badge/Spider-green)](https://yale-lily.github.io/spider)
   [![](https://img.shields.io/badge/Spider--Realistic-yellow)](https://aclanthology.org/2021.naacl-main.105.pdf)
   [![](https://img.shields.io/badge/Spider--Syn-blue)](https://arxiv.org/pdf/2106.01065.pdf)
   [![](https://img.shields.io/badge/BIRD-red)](https://bird-bench.github.io/)
+
+* (2018-EMNLP, CCF-B) **SyntaxSQLNet**: Syntax Tree Networks for Complex and Cross-DomainText-to-SQL Task
+  \[[paper](https://arxiv.org/pdf/1810.05237v2.pdf)]
+  \[[code](https://github.com/taoyds/syntaxsql) ⭐ 137 | 🐛 15 | 🌐 Python | 📅 2022-03-22]
+  [![](https://img.shields.io/badge/Spider-green)](https://yale-lily.github.io/spider)
 
 * (2018-NAACL, CCF-B) **TypeSQL**: Knowledge-based Type-Aware Neural Text-to-SQL Generation
   \[[paper](https://arxiv.org/pdf/1804.09769.pdf)]
@@ -357,19 +357,19 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
 
 ## 🔥 Base Model
 
-* Llama \[[paper](https://arxiv.org/pdf/2302.13971.pdf)] \[[code](https://github.com/facebookresearch/llama) ⭐ 59,579 | 🐛 532 | 🌐 Python | 📅 2025-01-26] \[[model](https://huggingface.co/meta-llama)]
+* Llama \[[paper](https://arxiv.org/pdf/2302.13971.pdf)] \[[code](https://github.com/facebookresearch/llama) ⭐ 59,578 | 🐛 532 | 🌐 Python | 📅 2025-01-26] \[[model](https://huggingface.co/meta-llama)]
   * 2023/02, Meta AI proposes the open source LLM Llama, which has four scales: 7b, 13b, 33b, and 65b.
 
-* Llama 2 \[[paper](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)] \[[code](https://github.com/facebookresearch/llama) ⭐ 59,579 | 🐛 532 | 🌐 Python | 📅 2025-01-26] \[[model](https://huggingface.co/meta-llama)]
+* Llama 2 \[[paper](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)] \[[code](https://github.com/facebookresearch/llama) ⭐ 59,578 | 🐛 532 | 🌐 Python | 📅 2025-01-26] \[[model](https://huggingface.co/meta-llama)]
   * 2023/07, Meta AI proposes the second-generation Llama series open-source LLM Llama 2. Compared with Llama 1, the training data is 40% more, and the context length is doubled. The model has four specifications: 7b, 13b, 34b, and 70b, but 34b is not open source.
 
-* ChatGLM \[[paper](https://arxiv.org/pdf/2103.10360.pdf)] \[[code](https://github.com/THUDM/ChatGLM-6B/blob/main/README.md) ⭐ 40,981 | 🐛 605 | 🌐 Python | 📅 2024-06-27] \[[model](https://huggingface.co/THUDM/chatglm-6b)]
-  * 2023/03, Tsinghua University proposes the open bilingual language model ChatGLM, based on [General Language Model](https://github.com/THUDM/GLM) ⭐ 3,652 | 🐛 119 | 🌐 Python | 📅 2023-11-03 framework, with the specification of 7b.
+* ChatGLM \[[paper](https://arxiv.org/pdf/2103.10360.pdf)] \[[code](https://github.com/THUDM/ChatGLM-6B/blob/main/README.md) ⭐ 40,983 | 🐛 605 | 🌐 Python | 📅 2024-06-27] \[[model](https://huggingface.co/THUDM/chatglm-6b)]
+  * 2023/03, Tsinghua University proposes the open bilingual language model ChatGLM, based on [General Language Model](https://github.com/THUDM/GLM) ⭐ 3,651 | 🐛 119 | 🌐 Python | 📅 2023-11-03 framework, with the specification of 7b.
 
-* Vicuna \[[paper](https://lmsys.org/blog/2023-03-30-vicuna/)] \[[code](https://github.com/lm-sys/FastChat) ⭐ 39,524 | 🐛 1,039 | 🌐 Python | 📅 2026-05-01] \[[model](https://huggingface.co/lmsys)]
+* Vicuna \[[paper](https://lmsys.org/blog/2023-03-30-vicuna/)] \[[code](https://github.com/lm-sys/FastChat) ⭐ 39,524 | 🐛 1,040 | 🌐 Python | 📅 2026-05-01] \[[model](https://huggingface.co/lmsys)]
   * 2023/03, UC Berkeley University, CMU and Stanford University propose Vicuna, an open souce LLM based on the  Llama model, has two specifications: 7b and 13b.
 
-* Alpaca \[[paper](https://crfm.stanford.edu/2023/03/13/alpaca.html)] \[[code](https://github.com/tatsu-lab/stanford_alpaca) ⭐ 30,244 | 🐛 186 | 🌐 Python | 📅 2024-07-17] \[[model](https://huggingface.co/tatsu-lab/alpaca-7b-wdiff/tree/main)]
+* Alpaca \[[paper](https://crfm.stanford.edu/2023/03/13/alpaca.html)] \[[code](https://github.com/tatsu-lab/stanford_alpaca) ⭐ 30,245 | 🐛 186 | 🌐 Python | 📅 2024-07-17] \[[model](https://huggingface.co/tatsu-lab/alpaca-7b-wdiff/tree/main)]
 
   * 2023/03, Stanford University proposes Alpaca, an open source LLM fine-tuned based on the Llama 7b model. There are 1 specification of 7b, and the training is simpler and cheaper.
 
@@ -382,16 +382,16 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
 * Llama 3.2  \[[paper](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/)] \[[code](https://github.com/meta-llama/llama3) ⚠️ Archived] \[[model](https://huggingface.co/meta-llama)]
   * 2024/09, Meta AI proposed the Llama 3.2, which includes small and medium-sized vision LLMs (11B and 90B), and lightweight, text-only models (1B and 3B) that fit onto edge and mobile devices, including pre-trained and instruction-tuned versions. The Llama 3.2 1B and 3B models support context length of 128K tokens and are state-of-the-art in their class for on-device use cases like summarization, instruction following, and rewriting tasks running locally at the edge. These models are enabled on day one for Qualcomm and MediaTek hardware and optimized for Arm processors.
 
-* Qwen-1.5-110B \[[paper](https://qwenlm.github.io/blog/qwen1.5-110b/)] \[[code](https://github.com/QwenLM/Qwen1.5) ⭐ 27,555 | 🐛 65 | 🌐 Python | 📅 2026-01-09] \[[model](https://huggingface.co/Qwen/Qwen1.5-110B)]
+* Qwen-1.5-110B \[[paper](https://qwenlm.github.io/blog/qwen1.5-110b/)] \[[code](https://github.com/QwenLM/Qwen1.5) ⭐ 27,561 | 🐛 65 | 🌐 Python | 📅 2026-01-09] \[[model](https://huggingface.co/Qwen/Qwen1.5-110B)]
   * 2024/04, Alibaba Cloud proposed the first 100B+ model of the Qwen1.5 series, Qwen1.5-110B, which achieves comparable performance with Meta-Llama3-70B in the base model evaluation, and outstanding performance in the chat evaluation, including MT-Bench and AlpacaEval 2.0. Qwen1.5 is the beta version of Qwen2, which has 9 model sizes, including 0.5B, 1.8B, 4B, 7B, 14B, 32B, 72B, and 110B dense models, and an MoE model of 14B with 2.7B activated.
 
-* Qwen2 \[[paper](https://qwenlm.github.io/blog/qwen2/)] \[[code](https://github.com/QwenLM/Qwen2) ⭐ 27,555 | 🐛 65 | 🌐 Python | 📅 2026-01-09] \[[model](https://huggingface.co/collections/Qwen/qwen2-6659360b33528ced941e557f)]
+* Qwen2 \[[paper](https://qwenlm.github.io/blog/qwen2/)] \[[code](https://github.com/QwenLM/Qwen2) ⭐ 27,561 | 🐛 65 | 🌐 Python | 📅 2026-01-09] \[[model](https://huggingface.co/collections/Qwen/qwen2-6659360b33528ced941e557f)]
   * 2024/06, Alibaba Cloud proposed the evolution from Qwen1.5 to Qwen2, which has 5 model sizes, including Qwen2-0.5B, Qwen2-1.5B, Qwen2-7B, Qwen2-57B-A14B, and Qwen2-72B. Qwen2-72B exhibits superior performance compared to leading models such as Llama-3-70B. Notably, it surpasses the performance of its predecessor, Qwen1.5-110B, despite having fewer parameters.
 
-* Qwen2.5 \[[paper](https://arxiv.org/abs/2407.10671)] \[[code](https://github.com/QwenLM/Qwen2.5) ⭐ 27,555 | 🐛 65 | 🌐 Python | 📅 2026-01-09] \[[model](https://huggingface.co/Qwen)]
+* Qwen2.5 \[[paper](https://arxiv.org/abs/2407.10671)] \[[code](https://github.com/QwenLM/Qwen2.5) ⭐ 27,561 | 🐛 65 | 🌐 Python | 📅 2026-01-09] \[[model](https://huggingface.co/Qwen)]
   * 2024/09, Alibaba Cloud proposed the latest addition to the Qwen family: Qwen2.5, along with specialized models for coding, Qwen2.5-Coder, and mathematics, Qwen2.5-Math. All open-weight models are dense, decoder-only language models, available in various sizes, including: Qwen2.5(0.5B, 1.5B, 3B, 7B, 14B, 32B, and 72B), Qwen2.5-Coder (1.5B, 7B, and 32B on the way) and Qwen2.5-Math (1.5B, 7B, and 72B). They benchmarked their largest open-source model, Qwen2.5-72B-Instruct against leading open-source models like Llama-3.1-70B-Instrct and Mistral-Large-V2-Instruct and achieved the best results in multiple indicators.
 
-* Qwen \[[paper](https://qianwen-res.oss-cn-beijing.aliyuncs.com/QWEN_TECHNICAL_REPORT.pdf)] \[[code](https://github.com/QwenLM/Qwen) ⭐ 21,642 | 🐛 38 | 🌐 Python | 📅 2026-03-05] \[[model](https://huggingface.co/Qwen)]
+* Qwen \[[paper](https://qianwen-res.oss-cn-beijing.aliyuncs.com/QWEN_TECHNICAL_REPORT.pdf)] \[[code](https://github.com/QwenLM/Qwen) ⭐ 21,653 | 🐛 37 | 🌐 Python | 📅 2026-03-05] \[[model](https://huggingface.co/Qwen)]
   * 2023/08, Alibaba Cloud proposes the 7b-parameter version of the large language model series Qwen-7B (abbr. Tongyi Qianwen), is pretrained on a large volume of data, including web texts, books, codes, etc, which has open sourced two models with Qwen-7B and Qwen-7B-Chat. 2023/09, Alibaba Cloud updated the Qwen-7B and Qwen-7B-Chat and open sourced Qwen-14B and Qwen-14B-Chat. 2023/11, they open sourced Qwen-1.8B, Qwen-1.8B-Chat, Qwen-72B and Qwen-72B-Chat.
 
 * Code Llama \[[paper](https://arxiv.org/pdf/2308.12950.pdf)] \[[code](https://github.com/facebookresearch/codellama) ⚠️ Archived] \[[model](https://huggingface.co/codellama)]
@@ -406,7 +406,7 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
   * 2023/10, Mistral-AI company proposes the open source LLM Mistral 7B, a 7–billion-parameter language model engineered for superior performance and efficiency. Mistral 7B outperforms the best open 13B model (Llama 2) across all evaluated benchmarks, and the best released 34B model (Llama 1) in reasoning, mathematics, and code generation. They also provide a model fine-tuned to follow instructions, Mistral 7B – Instruct, that surpasses Llama 2 13B–chat model both on human and automated benchmarks. 2023/12，They propose the open source LLM Mixtral-8x7B, a pretrained generative Sparse Mixture of Experts, which outperforms Llama 2 70B on most benchmarks.
 
 * MiniCPM \[[paper](https://shengdinghu.notion.site/MiniCPM-c805a17c5c8046398914e47f0542095a)]
-  \[[code](https://github.com/OpenBMB/MiniCPM) ⭐ 10,241 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-07-27]
+  \[[code](https://github.com/OpenBMB/MiniCPM) ⭐ 10,250 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-07-27]
   \[[model](https://huggingface.co/openbmb)]
   * 2024/02, ModelBest Inc. and TsinghuaNLP proposes the open source LLM MiniCPM, which is an End-Side LLM, with only 2.4B parameters excluding embeddings (2.7B in total). It is worth that MiniCPM has very close performance compared with Mistral-7B on open-sourced general benchmarks with better ability on Chinese, Mathematics and Coding after SFT. The overall performance exceeds Llama2-13B, MPT-30B, Falcon-40B, etc.
 
@@ -414,11 +414,11 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
   * 2023/04, Peking University and Microsoft propose WizardLM, a LLM of evolutionary instructions, with three specifications of 7b, 13b, and 30b. 2023/06, They propose WizardMath, a LLM in the field of mathematics. 2023/08, They propose WizardCoder, a LLM in the field of code.
 
 * Deepseek \[[paper](https://arxiv.org/pdf/2401.02954.pdf)]
-  \[[code](https://github.com/deepseek-ai/DeepSeek-LLM) ⭐ 7,256 | 🐛 58 | 🌐 Makefile | 📅 2024-02-04]
+  \[[code](https://github.com/deepseek-ai/DeepSeek-LLM) ⭐ 7,255 | 🐛 58 | 🌐 Makefile | 📅 2024-02-04]
   \[[model](https://huggingface.co/deepseek-ai)]
   * 2023/11, DeepSeek-AI company proposes the open source LLM deepseek, which has been trained from scratch on a vast dataset of 2 trillion tokens in both English and Chinese. Similarly, the deepseek LLM mainly has two categories: base and chat, with two parameter formats of 7b and 67b respectively. Data from its paper shows that deepSeek LLM 67b surpasses LLaMA-2 70b across a range of benchmarks, especially in the domains of code, mathematics, and reasoning. Furthermore, DeepSeek LLM 67B Chat exhibits superior performance compared to GPT-3.5.
 
-* Baichuan-7b \[[code](https://github.com/baichuan-inc/baichuan-7B) ⭐ 5,648 | 🐛 88 | 🌐 Python | 📅 2024-07-18] \[[model](https://huggingface.co/baichuan-inc/Baichuan-7B)]
+* Baichuan-7b \[[code](https://github.com/baichuan-inc/baichuan-7B) ⭐ 5,649 | 🐛 88 | 🌐 Python | 📅 2024-07-18] \[[model](https://huggingface.co/baichuan-inc/Baichuan-7B)]
   * 2023/06, Baichuan Intelligent Technology proposes the Baichuan-7B, an open-source, large-scale pre-trained language model based on Transformer architecture, which contains 7 billion parameters and trained on approximately 1.2 trillion tokens. It supports both Chinese and English languages with a context window length of 4096.
 
 * Baichuan 2 \[[paper](https://arxiv.org/pdf/2309.10305.pdf)]
@@ -448,10 +448,10 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
 * LoRA \[[paper](https://arxiv.org/pdf/2106.09685.pdf)] \[[code](https://github.com/microsoft/LoRA) ⭐ 13,767 | 🐛 113 | 🌐 Python | 📅 2024-12-17]
   * 2021/06, Microsoft proposes the Low-Rank Adaptation method for fine-tuning LLM by freezing the pre-training weights.
 
-* QLoRA \[[paper](https://arxiv.org/pdf/2305.14314.pdf)] \[[code](https://github.com/artidoro/qlora) ⭐ 10,998 | 🐛 206 | 🌐 Jupyter Notebook | 📅 2024-06-10]
+* QLoRA \[[paper](https://arxiv.org/pdf/2305.14314.pdf)] \[[code](https://github.com/artidoro/qlora) ⭐ 10,997 | 🐛 206 | 🌐 Jupyter Notebook | 📅 2024-06-10]
   * 2023/05, Washington University proposes the qlora method, based on the frozen 4bit quantization model, combined with LoRA method training, which further reduces the cost of fine-tuning.
 
-* RLHF \[[paper](https://huggingface.co/blog/rlhf)] \[[code](https://github.com/huggingface/blog/blob/main/zh/rlhf.md) ⭐ 3,503 | 🐛 251 | 🌐 Jupyter Notebook | 📅 2026-08-25]
+* RLHF \[[paper](https://huggingface.co/blog/rlhf)] \[[code](https://github.com/huggingface/blog/blob/main/zh/rlhf.md) ⭐ 3,504 | 🐛 250 | 🌐 Jupyter Notebook | 📅 2026-08-26]
   * 2022/12, OpenAI uses the RLHF (Reinforcement Learning from Human Feedback) method to train ChatGPT, and uses human feedback signals to directly optimize the language model, with excellent performance.
 
 * P-Tuning V2 \[[paper](https://arxiv.org/pdf/2110.07602.pdf)] \[[code](https://github.com/THUDM/P-tuning-v2) ⭐ 2,078 | 🐛 35 | 🌐 Python | 📅 2023-11-16]
@@ -460,7 +460,7 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
 * P-Tuning \[[paper](https://arxiv.org/pdf/2103.10385.pdf)] \[[code](https://github.com/THUDM/P-tuning) ⭐ 939 | 🐛 16 | 🌐 Python | 📅 2022-10-06]
   * 2021/03, Tsinghua University and others propose P-Tuning, a fine-tuning method for LLM, which uses trainable continuous prompt word embeddings to reduce the cost of fine-tuning.
 
-* RRHF \[[paper](https://arxiv.org/pdf/2304.05302.pdf)] \[[code](https://github.com/GanjinZero/RRHF) ⭐ 805 | 🐛 26 | 🌐 Python | 📅 2023-09-22]
+* RRHF \[[paper](https://arxiv.org/pdf/2304.05302.pdf)] \[[code](https://github.com/GanjinZero/RRHF) ⭐ 804 | 🐛 26 | 🌐 Python | 📅 2023-09-22]
   * 2023/04, Alibaba proposes a novel learning paradigm called RRHF（Rank Responses to Align Language Models
     with Human Feedback without tears), which can be tuned as easily as fine-tuning and achieve a similar
     performance as PPO in HH dataset.
@@ -479,13 +479,13 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
 * WikiSQL \[[paper](https://arxiv.org/pdf/1709.00103.pdf)] \[[code](https://github.com/salesforce/WikiSQL) ⚠️ Archived] \[[dataset](https://github.com/salesforce/WikiSQL) ⚠️ Archived]
   * 2017/09, Salesforce proposes a large Text-to-SQL dataset WikiSQL, the data comes from Wikipedia, which belongs to a single domain, contains 80,654 natural language questions, and 77,840 SQL statements. The form of SQL statements is relatively simple, and does not include sorting, grouping, and subqueries and other complex operations.
 
-* BIRD-SQL \[[paper](https://arxiv.org/pdf/2305.03111.pdf)] \[[code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/bird) ⭐ 1,579 | 🐛 79 | 🌐 Python | 📅 2026-06-10] \[[dataset](https://bird-bench.github.io/)]
+* BIRD-SQL \[[paper](https://arxiv.org/pdf/2305.03111.pdf)] \[[code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/bird) ⭐ 1,580 | 🐛 79 | 🌐 Python | 📅 2026-06-10] \[[dataset](https://bird-bench.github.io/)]
   * 2023/05, the University of Hong Kong and Alibaba propose a large-scale cross-domain dataset BIRD, which contains over 12,751 unique question-SQL pairs, 95 big databases with a total size of 33.4 GB. It also covers more than 37 professional domains, such as blockchain, hockey, healthcare and education, etc.
 
 * Spider 1.0 \[[paper](https://arxiv.org/pdf/1809.08887.pdf)] \[[code](https://github.com/taoyds/spider) ⭐ 1,097 | 🐛 70 | 🌐 Python | 📅 2024-05-29] \[[dataset](https://yale-lily.github.io/spider)]
   * 2018/09, Yale University proposes the Text-to-SQL dataset Spider with multiple databases, multiple tables, and single-round query. It is also recognized as the most difficult large-scale cross-domain evaluation list in the industry. It contains 10,181 natural language questions and 5,693 SQL statements. Involving more than 200 databases in 138 different fields, the difficulty level is divided into: easy, medium, difficult, and extremely difficult. 2024/02, Yale University has open sourced the test collection of Spider 1.0 leaderboard, and they will open source the Spider 2.0 data set in March.
 
-* Spider 2.0 \[[paper](https://spider2-sql.github.io/)] \[[code](https://github.com/xlang-ai/Spider2) ⭐ 860 | 🐛 119 | 🌐 HTML | 📅 2026-08-12] \[[dataset](https://github.com/xlang-ai/Spider2) ⭐ 860 | 🐛 119 | 🌐 HTML | 📅 2026-08-12]
+* Spider 2.0 \[[paper](https://spider2-sql.github.io/)] \[[code](https://github.com/xlang-ai/Spider2) ⭐ 861 | 🐛 119 | 🌐 HTML | 📅 2026-08-12] \[[dataset](https://github.com/xlang-ai/Spider2) ⭐ 861 | 🐛 119 | 🌐 HTML | 📅 2026-08-12]
   * 2024/08, Spider 2.0, proposed by XLang AI, serves as an advanced evaluation framework for text-to-SQL tasks within real-world enterprise-level workflows. It contains 600 complex text-to-SQL workflow problems, derived from various enterprise database use cases. The dataset includes databases sourced from actual data applications, often containing over 1,000 columns, and stored in cloud or local systems like BigQuery, Snowflake, or PostgreSQL. Problems in Spider 2.0 require understanding and searching through database metadata, dialect documentation, and project-level codebases. The challenges include processing long contexts, performing intricate reasoning, and generating multiple SQL queries with diverse operations, often exceeding 100 lines. Current state-of-the-art models, like GPT-4, solve only 6.0% of the questions, highlighting the dataset's difficulty and the need for more advanced, autonomous LLM-based code agents.
 
 * CSpider \[[paper](https://arxiv.org/pdf/1909.13293.pdf)] \[[code](https://github.com/taolusi/chisp) ⭐ 203 | 🐛 8 | 🌐 Python | 📅 2021-03-12] \[[dataset](https://drive.google.com/drive/folders/1TxCUq1ydPuBdDdHF3MkHT-8zixluQuLa?usp=sharing)]
@@ -522,7 +522,7 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
 
 ## 📦 Libraries
 
-* [QueryWeaver](https://github.com/FalkorDB/QueryWeaver) ⭐ 1,070 | 🐛 64 | 🌐 Python | 📅 2026-08-25
+* [QueryWeaver](https://github.com/FalkorDB/QueryWeaver) ⭐ 1,070 | 🐛 59 | 🌐 Python | 📅 2026-08-26
   * QueryWeaver is an open-source graph-powered Text-to-SQL engine that leverages a semantic layer to bridge the gap between natural language and complex relational databases. By mapping database schemas into knowledge graphs using FalkorDB, it provides superior contextual understanding for intricate joins and business logic. The library supports PostgreSQL and MySQL and includes a built-in MCP (Model Context Protocol) server, making it easily integrable into agentic workflows and LLM-based tools like Claude or Cursor.
 
 * [PremSQL](https://github.com/premAI-io/premsql) ⭐ 462 | 🐛 11 | 🌐 Python | 📅 2025-02-14
@@ -533,13 +533,13 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
 
 ## 🔧 Practice Project
 
-* [LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning) ⭐ 74,351 | 🐛 1,133 | 🌐 Python | 📅 2026-08-25
-  [![GitHub Repo stars](https://img.shields.io/github/stars/hiyouga/LLaMA-Efficient-Tuning?style=social)](https://github.com/hiyouga/LLaMA-Efficient-Tuning/stargazers) ⭐ 74,351 | 🐛 1,133 | 🌐 Python | 📅 2026-08-25
+* [LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning) ⭐ 74,377 | 🐛 1,136 | 🌐 Python | 📅 2026-08-25
+  [![GitHub Repo stars](https://img.shields.io/github/stars/hiyouga/LLaMA-Efficient-Tuning?style=social)](https://github.com/hiyouga/LLaMA-Efficient-Tuning/stargazers) ⭐ 74,377 | 🐛 1,136 | 🌐 Python | 📅 2026-08-25
   ![last commit](https://img.shields.io/github/last-commit/hiyouga/LLaMA-Efficient-Tuning?color=green)
   * Easy-to-use LLM fine-tuning framework (LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, Chat
 
-* [sqlcoder](https://github.com/defog-ai/sqlcoder) ⭐ 4,043 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-05-23
-  [![GitHub Repo stars](https://img.shields.io/github/stars/defog-ai/sqlcoder?style=social)](https://github.com/defog-ai/sqlcoder/stargazers) ⭐ 4,043 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-05-23
+* [sqlcoder](https://github.com/defog-ai/sqlcoder) ⭐ 4,044 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-05-23
+  [![GitHub Repo stars](https://img.shields.io/github/stars/defog-ai/sqlcoder?style=social)](https://github.com/defog-ai/sqlcoder/stargazers) ⭐ 4,044 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-05-23
   ![last commit](https://img.shields.io/github/last-commit/defog-ai/sqlcoder?color=green)
   * The Defog organization proposes an advanced Text-to-SQL LLM, which has outstanding performance and is better than GPT3.5, wizardcoder and starcoder, etc., second only to GPT4.
 
@@ -592,4 +592,4 @@ If you find `Text2SQL` useful for your research or development, please cite the 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._

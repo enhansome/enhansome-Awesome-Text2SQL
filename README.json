@@ -15,7 +15,7 @@
             "last_commit": "2026-07-28T08:54:04Z",
             "owner": "HKUSTDial",
             "repo": "NL2SQL_Handbook",
-            "stars": 1573
+            "stars": 1574
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-06-10T11:18:20Z",
             "owner": "AlibabaResearch",
             "repo": "DAMO-ConvAI",
-            "stars": 1579
+            "stars": 1580
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-06-10T11:18:20Z",
             "owner": "AlibabaResearch",
             "repo": "DAMO-ConvAI",
-            "stars": 1579
+            "stars": 1580
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-04-18T02:03:24Z",
             "owner": "budzianowski",
             "repo": "multiwoz",
-            "stars": 956
+            "stars": 955
           }
         },
         {
@@ -401,6 +401,21 @@
         },
         {
           "node_type": "item",
+          "title": "(2025-EDBT, CCF-B) DBCᴏᴘɪʟᴏᴛ: Natural Language Querying over Massive Databases via Schema Routing [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 660099519,
+            "language": "Python",
+            "last_commit": "2025-08-25T08:54:57Z",
+            "owner": "tshu-w",
+            "repo": "DBCopilot",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
           "title": "(2018-EMNLP, CCF-B) SyntaxSQLNet: Syntax Tree Networks for Complex and Cross-DomainText-to-SQL Task [paper",
           "description": "] [code]",
           "children": [],
@@ -412,21 +427,6 @@
             "owner": "taoyds",
             "repo": "syntaxSQL",
             "stars": 137
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(2025-EDBT, CCF-B) DBCᴏᴘɪʟᴏᴛ: Natural Language Querying over Massive Databases via Schema Routing [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 660099519,
-            "language": "Python",
-            "last_commit": "2025-08-25T08:54:57Z",
-            "owner": "tshu-w",
-            "repo": "DBCopilot",
-            "stars": 136
           }
         },
         {
@@ -612,7 +612,7 @@
             "last_commit": "2025-01-26T21:42:26Z",
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59579
+            "stars": 59578
           }
         },
         {
@@ -627,7 +627,7 @@
             "last_commit": "2025-01-26T21:42:26Z",
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59579
+            "stars": 59578
           }
         },
         {
@@ -647,7 +647,7 @@
                 "last_commit": "2023-11-03T08:26:49Z",
                 "owner": "THUDM",
                 "repo": "GLM",
-                "stars": 3652
+                "stars": 3651
               }
             }
           ],
@@ -658,7 +658,7 @@
             "last_commit": "2024-06-27T04:05:25Z",
             "owner": "zai-org",
             "repo": "ChatGLM-6B",
-            "stars": 40981
+            "stars": 40983
           }
         },
         {
@@ -688,7 +688,7 @@
             "last_commit": "2024-07-17T09:43:05Z",
             "owner": "tatsu-lab",
             "repo": "stanford_alpaca",
-            "stars": 30244
+            "stars": 30245
           }
         },
         {
@@ -748,7 +748,7 @@
             "last_commit": "2026-01-09T03:05:47Z",
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27555
+            "stars": 27561
           }
         },
         {
@@ -763,7 +763,7 @@
             "last_commit": "2026-01-09T03:05:47Z",
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27555
+            "stars": 27561
           }
         },
         {
@@ -778,7 +778,7 @@
             "last_commit": "2026-01-09T03:05:47Z",
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27555
+            "stars": 27561
           }
         },
         {
@@ -793,7 +793,7 @@
             "last_commit": "2026-03-05T13:55:17Z",
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21642
+            "stars": 21653
           }
         },
         {
@@ -838,7 +838,7 @@
             "last_commit": "2026-06-16T15:40:44Z",
             "owner": "mistralai",
             "repo": "mistral-inference",
-            "stars": 10830
+            "stars": 10832
           }
         },
         {
@@ -853,7 +853,7 @@
             "last_commit": "2026-07-27T06:50:07Z",
             "owner": "OpenBMB",
             "repo": "MiniCPM",
-            "stars": 10241
+            "stars": 10250
           }
         },
         {
@@ -883,7 +883,7 @@
             "last_commit": "2024-02-04T12:22:16Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-LLM",
-            "stars": 7256
+            "stars": 7255
           }
         },
         {
@@ -898,7 +898,7 @@
             "last_commit": "2024-07-18T14:23:01Z",
             "owner": "baichuan-inc",
             "repo": "Baichuan-7B",
-            "stars": 5648
+            "stars": 5649
           }
         },
         {
@@ -979,7 +979,7 @@
             "last_commit": "2024-06-10T19:20:16Z",
             "owner": "artidoro",
             "repo": "qlora",
-            "stars": 10998
+            "stars": 10997
           }
         },
         {
@@ -991,10 +991,10 @@
             "archived": false,
             "id": 240541316,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-25T12:49:10Z",
+            "last_commit": "2026-08-26T13:46:57Z",
             "owner": "huggingface",
             "repo": "blog",
-            "stars": 3503
+            "stars": 3504
           }
         },
         {
@@ -1039,7 +1039,7 @@
             "last_commit": "2023-09-22T03:26:38Z",
             "owner": "GanjinZero",
             "repo": "RRHF",
-            "stars": 805
+            "stars": 804
           }
         },
         {
@@ -1090,7 +1090,7 @@
             "last_commit": "2026-06-10T11:18:20Z",
             "owner": "AlibabaResearch",
             "repo": "DAMO-ConvAI",
-            "stars": 1579
+            "stars": 1580
           }
         },
         {
@@ -1120,7 +1120,7 @@
             "last_commit": "2026-08-12T13:01:36Z",
             "owner": "xlang-ai",
             "repo": "Spider2",
-            "stars": 860
+            "stars": 861
           }
         },
         {
@@ -1198,7 +1198,7 @@
             "archived": false,
             "id": 1027340108,
             "language": "Python",
-            "last_commit": "2026-08-25T11:01:16Z",
+            "last_commit": "2026-08-26T12:51:21Z",
             "owner": "FalkorDB",
             "repo": "QueryWeaver",
             "stars": 1070
@@ -1237,7 +1237,7 @@
             "last_commit": "2026-08-25T08:53:02Z",
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 74351
+            "stars": 74377
           }
         },
         {
@@ -1252,7 +1252,7 @@
             "last_commit": "2024-05-23T03:06:26Z",
             "owner": "defog-ai",
             "repo": "sqlcoder",
-            "stars": 4043
+            "stars": 4044
           }
         },
         {
@@ -1305,7 +1305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:13:19.417Z",
+    "last_updated": "2026-08-26T15:58:41.781Z",
     "original_repository": "eosphoros-ai/Awesome-Text2SQL",
     "original_repository_id": 686871971,
     "original_repository_sha": "ab3fd156c491abdd9ba04da5bdd7b861c2ee0da2",
