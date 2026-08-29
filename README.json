@@ -10,12 +10,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a continuously updated handbook for readers to easily track the latest Text-to-SQL techniques in the literature and provide practical guidance for researchers and practitioners. ",
+            "homepage": "https://arxiv.org/abs/2408.05109",
             "id": 803643412,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-28T08:54:04Z",
+            "open_issues": 0,
             "owner": "HKUSTDial",
             "repo": "NL2SQL_Handbook",
-            "stars": 1578
+            "stars": 1578,
+            "topics": [
+              "ai4db",
+              "awesome",
+              "awesome-agents",
+              "awesome-nl2sql",
+              "awesome-text-to-sql",
+              "awesome-text2sql",
+              "db",
+              "llms",
+              "nl-to-code",
+              "nl-to-sql",
+              "nl2sql",
+              "nlp",
+              "text-to-code",
+              "text-to-sql",
+              "text2sql"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -26,12 +47,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.",
+            "homepage": "https://arxiv.org/pdf/2406.08426",
             "id": 1056221118,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-03T00:50:21Z",
+            "open_issues": 0,
             "owner": "DEEP-PolyU",
             "repo": "Awesome-LLM-based-Text2SQL",
-            "stars": 1358
+            "stars": 1358,
+            "topics": [
+              "awesome",
+              "awesome-text-to-sql",
+              "awesome-text2sql",
+              "database",
+              "large-language-models",
+              "llms",
+              "natual-language-processing",
+              "natural-language-understanding",
+              "nl2sql",
+              "survey",
+              "text-to-sql",
+              "text2sql"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         }
@@ -48,12 +87,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository that contains models, datasets, and fine-tuning techniques for DB-GPT, with the purpose of enhancing model performance  in Text-to-SQL",
+            "homepage": null,
             "id": 648474263,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-02T03:39:31Z",
+            "open_issues": 73,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT-Hub",
-            "stars": 2009
+            "stars": 2009,
+            "topics": [
+              "database",
+              "datasets",
+              "fine-tuning",
+              "gpt",
+              "hacktoberfest",
+              "llm",
+              "nl2sql",
+              "sql",
+              "text-to-sql",
+              "text2sql"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -64,12 +119,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A large annotated semantic parsing corpus for developing natural language interfaces.",
+            "homepage": null,
             "id": 100076574,
             "language": "HTML",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-10-06T11:06:57Z",
+            "open_issues": 29,
             "owner": "salesforce",
             "repo": "WikiSQL",
-            "stars": 1805
+            "stars": 1805,
+            "topics": [
+              "database",
+              "dataset",
+              "machine-learning",
+              "natural-language",
+              "natural-language-interface",
+              "natural-language-processing"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -80,12 +147,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A large annotated semantic parsing corpus for developing natural language interfaces.",
+            "homepage": null,
             "id": 100076574,
             "language": "HTML",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-10-06T11:06:57Z",
+            "open_issues": 29,
             "owner": "salesforce",
             "repo": "WikiSQL",
-            "stars": 1805
+            "stars": 1805,
+            "topics": [
+              "database",
+              "dataset",
+              "machine-learning",
+              "natural-language",
+              "natural-language-interface",
+              "natural-language-processing"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -96,12 +175,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A large annotated semantic parsing corpus for developing natural language interfaces.",
+            "homepage": null,
             "id": 100076574,
             "language": "HTML",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-10-06T11:06:57Z",
+            "open_issues": 29,
             "owner": "salesforce",
             "repo": "WikiSQL",
-            "stars": 1805
+            "stars": 1805,
+            "topics": [
+              "database",
+              "dataset",
+              "machine-learning",
+              "natural-language",
+              "natural-language-interface",
+              "natural-language-processing"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -112,12 +203,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A large annotated semantic parsing corpus for developing natural language interfaces.",
+            "homepage": null,
             "id": 100076574,
             "language": "HTML",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-10-06T11:06:57Z",
+            "open_issues": 29,
             "owner": "salesforce",
             "repo": "WikiSQL",
-            "stars": 1805
+            "stars": 1805,
+            "topics": [
+              "database",
+              "dataset",
+              "machine-learning",
+              "natural-language",
+              "natural-language-interface",
+              "natural-language-processing"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -128,12 +231,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DAMO-ConvAI: The official repository which contains the codebase for Alibaba DAMO Conversational AI.",
+            "homepage": null,
             "id": 514217147,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-10T11:18:20Z",
+            "open_issues": 79,
             "owner": "AlibabaResearch",
             "repo": "DAMO-ConvAI",
-            "stars": 1580
+            "stars": 1580,
+            "topics": [
+              "conversational-ai",
+              "deep-learning",
+              "dialog",
+              "natural-language-processing"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -144,12 +257,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DAMO-ConvAI: The official repository which contains the codebase for Alibaba DAMO Conversational AI.",
+            "homepage": null,
             "id": 514217147,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-10T11:18:20Z",
+            "open_issues": 79,
             "owner": "AlibabaResearch",
             "repo": "DAMO-ConvAI",
-            "stars": 1580
+            "stars": 1580,
+            "topics": [
+              "conversational-ai",
+              "deep-learning",
+              "dialog",
+              "natural-language-processing"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -160,12 +283,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for end-to-end dialogue model from the MultiWOZ paper (Budzianowski et al. 2018, EMNLP)",
+            "homepage": null,
             "id": 151149541,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-18T02:03:24Z",
+            "open_issues": 21,
             "owner": "budzianowski",
             "repo": "multiwoz",
-            "stars": 956
+            "stars": 956,
+            "topics": [
+              "dialogue",
+              "dialogue-library",
+              "dialogue-manager",
+              "dialogue-systems",
+              "dialogues",
+              "machine-learning",
+              "natural-language-processing",
+              "seq2seq"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -176,12 +313,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A efficient and effective few-shot NL2SQL method on GPT-4.",
+            "homepage": null,
             "id": 684399912,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-07T03:42:22Z",
+            "open_issues": 11,
             "owner": "BeachWang",
             "repo": "DAIL-SQL",
-            "stars": 640
+            "stars": 640,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -192,12 +334,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This repository contains source code for the TaBERT model, a pre-trained language model for learning joint representations of natural language utterances and (semi-)structured tables for semantic parsing. TaBERT is pre-trained on a massive corpus of 26M Web tables and their associated natural language context, and could be used as a drop-in replacement of a semantic parsers original encoder to compute representations for utterances and table schemas (columns).",
+            "homepage": null,
             "id": 269777071,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-08-26T01:24:53Z",
+            "open_issues": 25,
             "owner": "facebookresearch",
             "repo": "TaBERT",
-            "stars": 613
+            "stars": 613,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -208,12 +355,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A relation-aware semantic parsing model from English to SQL",
+            "homepage": "https://arxiv.org/abs/1911.04942",
             "id": 265127379,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-08-22T16:19:45Z",
+            "open_issues": 38,
             "owner": "microsoft",
             "repo": "rat-sql",
-            "stars": 448
+            "stars": 448,
+            "topics": [
+              "dbqa",
+              "nl2sql",
+              "nlp",
+              "program-synthesis",
+              "question-answering",
+              "semantic-parsing",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -224,12 +384,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neural Network for generating structured queries from natural language.",
+            "homepage": null,
             "id": 110507963,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-10-10T17:23:44Z",
+            "open_issues": 43,
             "owner": "xiaojunxu",
             "repo": "SQLNet",
-            "stars": 433
+            "stars": 433,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -240,12 +405,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 614949365,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-30T13:41:47Z",
+            "open_issues": 22,
             "owner": "MohammadrezaPourreza",
             "repo": "Few-shot-NL2SQL-with-prompting",
-            "stars": 421
+            "stars": 421,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -256,12 +426,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PICARD - Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models. PICARD is a ServiceNow Research project that was started at Element AI.",
+            "homepage": "https://arxiv.org/abs/2109.05093",
             "id": 401779782,
             "language": "Haskell",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-18T02:48:43Z",
+            "open_issues": 37,
             "owner": "ServiceNow",
             "repo": "picard",
-            "stars": 377
+            "stars": 377,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -272,12 +447,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MAC-SQL: A Multi-Agent Collaborative Framework for Text-to-SQL",
+            "homepage": "https://arxiv.org/abs/2312.11242",
             "id": 733015849,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-02-27T04:02:02Z",
+            "open_issues": 5,
             "owner": "wbbeyourself",
             "repo": "MAC-SQL",
-            "stars": 346
+            "stars": 346,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -288,12 +468,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2023] Code for the paper \"Binding Language Models in Symbolic Languages\"",
+            "homepage": null,
             "id": 547117825,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-25T14:59:44Z",
+            "open_issues": 3,
             "owner": "xlang-ai",
             "repo": "Binder",
-            "stars": 325
+            "stars": 325,
+            "topics": [
+              "fact-verification",
+              "in-context-learning",
+              "language-binding",
+              "language-model",
+              "large-language-models",
+              "natural-language-processing",
+              "openai",
+              "prompt-learning",
+              "question-answering",
+              "structured-knowledge-grounding",
+              "symbolic-language"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -304,12 +501,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An algorithm for cross-domain NL2SQL ",
+            "homepage": null,
             "id": 218888365,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-07-22T20:20:22Z",
+            "open_issues": 30,
             "owner": "microsoft",
             "repo": "IRNet",
-            "stars": 291
+            "stars": 291,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -320,12 +522,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Pytorch implementation of RESDSQL (AAAI 2023).",
+            "homepage": "https://arxiv.org/abs/2302.05965",
             "id": 600767872,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-13T02:45:33Z",
+            "open_issues": 14,
             "owner": "RUCKBReasoning",
             "repo": "RESDSQL",
-            "stars": 281
+            "stars": 281,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -336,12 +543,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Contextual Harnessing for Efficient SQL Synthesis",
+            "homepage": null,
             "id": 817915982,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-26T21:26:00Z",
+            "open_issues": 14,
             "owner": "ShayanTalaei",
             "repo": "CHESS",
-            "stars": 280
+            "stars": 280,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -352,12 +564,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Translating natural language questions to structured query language (SQL)",
+            "homepage": "https://arxiv.org/abs/2012.12627",
             "id": 317379275,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-02T18:08:48Z",
+            "open_issues": 24,
             "owner": "salesforce",
             "repo": "TabularSemanticParsing",
-            "stars": 237
+            "stars": 237,
+            "topics": [
+              "database",
+              "natural-language-interface",
+              "natural-language-processing",
+              "pytorch",
+              "semantic-parsing",
+              "text-to-sql"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -368,12 +592,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 193267613,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-25T10:15:43Z",
+            "open_issues": 14,
             "owner": "ryanzhumich",
             "repo": "editsql",
-            "stars": 207
+            "stars": 207,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -384,12 +613,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACL 2021] This is the project containing source codes and pre-trained models about ACL2021 Long Paper ``LGESQL: Line Graph Enhanced Text-to-SQL Model with Mixed Local and Non-Local Relations\".",
+            "homepage": "https://arxiv.org/abs/2106.01093",
             "id": 373155611,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-08-02T06:45:58Z",
+            "open_issues": 16,
             "owner": "X-LANCE",
             "repo": "text2sql-lgesql",
-            "stars": 154
+            "stars": 154,
+            "topics": [
+              "database",
+              "heterogeneous-graph-neural-network",
+              "natural-language-interface",
+              "semantic-parsing",
+              "structured-prediction",
+              "text-to-sql"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -400,12 +641,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Author implementation of the paper \"Representing Schema Structure with Graph Neural Networks for Text-to-SQL Parsing\"",
+            "homepage": null,
             "id": 186848417,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-07-25T10:15:57Z",
+            "open_issues": 1,
             "owner": "benbogin",
             "repo": "spider-schema-gnn",
-            "stars": 141
+            "stars": 141,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -416,12 +662,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥[VLDB'24] Official repository for the paper “The Dawn of Natural Language to SQL: Are We Fully Ready?” ",
+            "homepage": "https://www.vldb.org/pvldb/vol17/p3318-luo.pdf",
             "id": 749810395,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-02T04:07:45Z",
+            "open_issues": 0,
             "owner": "HKUSTDial",
             "repo": "NL2SQL360",
-            "stars": 140
+            "stars": 140,
+            "topics": [
+              "awesome",
+              "awesome-nl2sql",
+              "awesome-text2sql",
+              "evaluation-framework",
+              "evaluation-metrics",
+              "nl2sql-evaluation",
+              "text-to-sql",
+              "text2sql",
+              "text2sql-evaluation"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -432,12 +693,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and data for the paper \"DBCᴏᴘɪʟᴏᴛ: Natural Language Querying over Massive Database via Schema Routing\" (EDBT 2025)",
+            "homepage": null,
             "id": 660099519,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-08-25T08:54:57Z",
+            "open_issues": 4,
             "owner": "tshu-w",
             "repo": "DBCopilot",
-            "stars": 137
+            "stars": 137,
+            "topics": [
+              "database",
+              "llm",
+              "schema-routing",
+              "text-to-sql"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -448,12 +719,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SyntaxSQLNet: Syntax Tree Networks for Complex and Cross Domain Text-to-SQL Task",
+            "homepage": "https://yale-lily.github.io/spider",
             "id": 153428054,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-03-22T19:55:29Z",
+            "open_issues": 15,
             "owner": "taoyds",
             "repo": "syntaxSQL",
-            "stars": 137
+            "stars": 137,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -464,12 +740,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TypeSQL: Knowledge-based Type-Aware Neural Text-to-SQL Generation",
+            "homepage": null,
             "id": 129334631,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-04-15T17:19:31Z",
+            "open_issues": 4,
             "owner": "taoyds",
             "repo": "typesql",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -480,12 +761,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The prediction results of ChatGPT on various datasets of Text-to-SQL.",
+            "homepage": "https://arxiv.org/pdf/2303.13547.pdf",
             "id": 612797794,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-06-14T01:07:03Z",
+            "open_issues": 3,
             "owner": "THU-BPM",
             "repo": "chatgpt-sql",
-            "stars": 107
+            "stars": 107,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -496,12 +782,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Author implementation of Global Reasoning over Database Structures for Text-to-SQL Parsing",
+            "homepage": null,
             "id": 204171882,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-07-25T10:16:36Z",
+            "open_issues": 1,
             "owner": "benbogin",
             "repo": "spider-schema-gnn-global",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -512,12 +803,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and trained model for Hybrid ranking network for text-to-SQL on WikiSQL",
+            "homepage": "https://arxiv.org/abs/2008.04759",
             "id": 283581252,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-12-20T21:10:52Z",
+            "open_issues": 3,
             "owner": "lyuqin",
             "repo": "HydraNet-WikiSQL",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "nl2sql",
+              "text-to-sql",
+              "wikisql"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -528,12 +828,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official implementation of the paper \"RASAT: Integrating Relational Structures into Pretrained Seq2Seq Model for Text-to-SQL\"(EMNLP 2022)",
+            "homepage": "https://arxiv.org/abs/2205.06983",
             "id": 547878739,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-23T03:48:19Z",
+            "open_issues": 11,
             "owner": "LUMIA-Group",
             "repo": "rasat",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -544,12 +849,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 862763080,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-12-07T16:17:55Z",
+            "open_issues": 0,
             "owner": "HasanAlpCaferoglu",
             "repo": "E-SQL",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -560,12 +870,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Introduction page of a challenging text-to-SQL dataset: KaggleDBQA",
+            "homepage": null,
             "id": 439738419,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2023-09-20T17:49:43Z",
+            "open_issues": 2,
             "owner": "Chia-Hsuan-Lee",
             "repo": "KaggleDBQA",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "dataset",
+              "kaggle",
+              "kaggle-dataset",
+              "natural-language-processing",
+              "question-answering",
+              "semantic-parsing",
+              "spider",
+              "text-to-sql"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -576,12 +900,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 331743442,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-09-04T22:36:15Z",
+            "open_issues": 0,
             "owner": "taoyds",
             "repo": "grappa",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -592,12 +921,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 311984412,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-11-15T16:10:44Z",
+            "open_issues": 1,
             "owner": "headacheboy",
             "repo": "IGSQL",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -608,12 +942,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 627289319,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-05-13T05:19:58Z",
+            "open_issues": 2,
             "owner": "ruc-datalab",
             "repo": "SC-prompt",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -624,12 +963,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for our paper \"Pay More Attention to History: A Context Modeling Strategy for Conversational Text-to-SQL\"",
+            "homepage": null,
             "id": 474919881,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-04-13T14:56:39Z",
+            "open_issues": 1,
             "owner": "JuruoMP",
             "repo": "RAT-SQL-TC",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         }
@@ -646,12 +990,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inference code for Llama models",
+            "homepage": null,
             "id": 601538369,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-01-26T21:42:26Z",
+            "open_issues": 531,
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59585
+            "stars": 59585,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -662,12 +1011,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inference code for Llama models",
+            "homepage": null,
             "id": 601538369,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-01-26T21:42:26Z",
+            "open_issues": 531,
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59585
+            "stars": 59585,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -683,24 +1037,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GLM (General Language Model)",
+                "homepage": null,
                 "id": 349016971,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-03T08:26:49Z",
+                "open_issues": 119,
                 "owner": "THUDM",
                 "repo": "GLM",
-                "stars": 3656
+                "stars": 3657,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:43.197Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型",
+            "homepage": null,
             "id": 613349035,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-27T04:05:25Z",
+            "open_issues": 605,
             "owner": "zai-org",
             "repo": "ChatGLM-6B",
-            "stars": 40983
+            "stars": 40983,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -711,12 +1075,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.",
+            "homepage": null,
             "id": 615882673,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-01T00:25:53Z",
+            "open_issues": 1041,
             "owner": "lm-sys",
             "repo": "FastChat",
-            "stars": 39526
+            "stars": 39526,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -727,12 +1096,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
+            "homepage": "https://crfm.stanford.edu/2023/03/13/alpaca.html",
             "id": 612427246,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-17T09:43:05Z",
+            "open_issues": 186,
             "owner": "tatsu-lab",
             "repo": "stanford_alpaca",
-            "stars": 30246
+            "stars": 30246,
+            "topics": [
+              "deep-learning",
+              "instruction-following",
+              "language-model"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -743,12 +1121,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The official Meta Llama 3 GitHub site",
+            "homepage": null,
             "id": 772699441,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-01-26T21:39:06Z",
+            "open_issues": 215,
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29244
+            "stars": 29244,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -759,12 +1142,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The official Meta Llama 3 GitHub site",
+            "homepage": null,
             "id": 772699441,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-01-26T21:39:06Z",
+            "open_issues": 215,
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29244
+            "stars": 29244,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -775,12 +1163,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The official Meta Llama 3 GitHub site",
+            "homepage": null,
             "id": 772699441,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-01-26T21:39:06Z",
+            "open_issues": 215,
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29244
+            "stars": 29244,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -791,12 +1184,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.",
+            "homepage": null,
             "id": 752925682,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-01-09T03:05:47Z",
+            "open_issues": 66,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27565
+            "stars": 27566,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -807,12 +1205,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.",
+            "homepage": null,
             "id": 752925682,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-01-09T03:05:47Z",
+            "open_issues": 66,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27565
+            "stars": 27566,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -823,12 +1226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.",
+            "homepage": null,
             "id": 752925682,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-01-09T03:05:47Z",
+            "open_issues": 66,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27565
+            "stars": 27566,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -839,12 +1247,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.",
+            "homepage": null,
             "id": 674075444,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-05T13:55:17Z",
+            "open_issues": 38,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21671
+            "stars": 21672,
+            "topics": [
+              "chinese",
+              "flash-attention",
+              "large-language-models",
+              "llm",
+              "natural-language-processing",
+              "pretrained-models"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -855,12 +1275,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Inference code for CodeLlama models",
+            "homepage": null,
             "id": 682604510,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-12T12:49:54Z",
+            "open_issues": 116,
             "owner": "meta-llama",
             "repo": "codellama",
-            "stars": 16266
+            "stars": 16266,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -871,12 +1296,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型",
+            "homepage": null,
             "id": 657895120,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-27T04:05:08Z",
+            "open_issues": 450,
             "owner": "zai-org",
             "repo": "ChatGLM2-6B",
-            "stars": 15528
+            "stars": 15528,
+            "topics": [
+              "chatglm",
+              "chatglm-6b",
+              "large-language-models",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -887,12 +1322,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Official inference library for Mistral models",
+            "homepage": "https://mistral.ai/",
             "id": 697302510,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-16T15:40:44Z",
+            "open_issues": 1,
             "owner": "mistralai",
             "repo": "mistral-inference",
-            "stars": 10832
+            "stars": 10832,
+            "topics": [
+              "llm",
+              "llm-inference",
+              "mistralai"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -903,12 +1347,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MiniCPM5-1B: A SOTA 1B on-device LLM, small yet powerful.",
+            "homepage": null,
             "id": 749703336,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-27T06:50:07Z",
+            "open_issues": 19,
             "owner": "OpenBMB",
             "repo": "MiniCPM",
-            "stars": 10266
+            "stars": 10268,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -919,12 +1368,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath",
+            "homepage": null,
             "id": 631580207,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-07T01:35:05Z",
+            "open_issues": 169,
             "owner": "nlpxucan",
             "repo": "WizardLM",
-            "stars": 9482
+            "stars": 9482,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -935,12 +1389,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DeepSeek LLM: Let there be answers",
+            "homepage": "https://chat.deepseek.com/",
             "id": 725062669,
             "language": "Makefile",
+            "license": "MIT",
             "last_commit": "2024-02-04T12:22:16Z",
+            "open_issues": 58,
             "owner": "deepseek-ai",
             "repo": "DeepSeek-LLM",
-            "stars": 7258
+            "stars": 7258,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -951,12 +1410,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A large-scale 7B pretraining language model developed by BaiChuan-Inc.",
+            "homepage": "https://huggingface.co/baichuan-inc/baichuan-7B",
             "id": 653595084,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-18T14:23:01Z",
+            "open_issues": 88,
             "owner": "baichuan-inc",
             "repo": "Baichuan-7B",
-            "stars": 5648
+            "stars": 5648,
+            "topics": [
+              "artificial-intelligence",
+              "ceval",
+              "chatgpt",
+              "chinese",
+              "gpt-4",
+              "huggingface",
+              "large-language-models",
+              "llama",
+              "mmlu",
+              "natural-language-processing"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -967,12 +1442,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A series of large language models developed by Baichuan Intelligent Technology",
+            "homepage": "https://huggingface.co/baichuan-inc",
             "id": 685444668,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-08T08:31:29Z",
+            "open_issues": 281,
             "owner": "baichuan-inc",
             "repo": "Baichuan2",
-            "stars": 4083
+            "stars": 4083,
+            "topics": [
+              "artificial-intelligence",
+              "benchmark",
+              "ceval",
+              "chatgpt",
+              "chinese",
+              "gpt",
+              "gpt-4",
+              "huggingface",
+              "large-language-models",
+              "llama2",
+              "mmlu",
+              "natural-language-processing"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -983,12 +1476,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A 13B large language model developed by Baichuan Intelligent Technology",
+            "homepage": "https://huggingface.co/baichuan-inc/Baichuan-13B-Chat",
             "id": 664752008,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-06T17:16:53Z",
+            "open_issues": 96,
             "owner": "baichuan-inc",
             "repo": "Baichuan-13B",
-            "stars": 2925
+            "stars": 2925,
+            "topics": [
+              "artificial-intelligence",
+              "benchmark",
+              "ceval",
+              "chatgpt",
+              "chinese",
+              "gpt-4",
+              "huggingface",
+              "large-language-models",
+              "mmlu",
+              "natural-language-processing"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -999,12 +1508,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 648849579,
             "language": null,
+            "license": null,
             "last_commit": "2023-06-07T04:52:53Z",
+            "open_issues": 6,
             "owner": "InternLM",
             "repo": "InternLM-techreport",
-            "stars": 893
+            "stars": 893,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         }
@@ -1021,12 +1535,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for loralib, an implementation of \"LoRA: Low-Rank Adaptation of Large Language Models\"",
+            "homepage": "https://arxiv.org/abs/2106.09685",
             "id": 378010497,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-17T03:55:52Z",
+            "open_issues": 113,
             "owner": "microsoft",
             "repo": "LoRA",
-            "stars": 13769
+            "stars": 13769,
+            "topics": [
+              "adaptation",
+              "deberta",
+              "deep-learning",
+              "gpt-2",
+              "gpt-3",
+              "language-model",
+              "lora",
+              "low-rank",
+              "pytorch",
+              "roberta"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -1037,12 +1567,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QLoRA: Efficient Finetuning of Quantized LLMs",
+            "homepage": "https://arxiv.org/abs/2305.14314",
             "id": 639346169,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-06-10T19:20:16Z",
+            "open_issues": 206,
             "owner": "artidoro",
             "repo": "qlora",
-            "stars": 10999
+            "stars": 10999,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -1053,12 +1588,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public repo for HF blog posts",
+            "homepage": "https://hf.co/blog",
             "id": 240541316,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-08-28T21:05:13Z",
+            "open_issues": 249,
             "owner": "huggingface",
             "repo": "blog",
-            "stars": 3506
+            "stars": 3506,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -1069,12 +1611,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An optimized deep prompt tuning strategy comparable to fine-tuning across scales and tasks",
+            "homepage": null,
             "id": 417157956,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-16T04:38:09Z",
+            "open_issues": 35,
             "owner": "THUDM",
             "repo": "P-tuning-v2",
-            "stars": 2078
+            "stars": 2078,
+            "topics": [
+              "natural-language-processing",
+              "p-tuning",
+              "parameter-efficient-learning",
+              "pretrained-language-model",
+              "prompt-tuning"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -1085,12 +1638,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A novel method to tune language models. Codes and datasets for paper ``GPT understands, too''.",
+            "homepage": null,
             "id": 348953105,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-10-06T12:36:12Z",
+            "open_issues": 16,
             "owner": "THUDM",
             "repo": "P-tuning",
-            "stars": 939
+            "stars": 939,
+            "topics": [
+              "few-shot-learning",
+              "natural-language-processing",
+              "p-tuning",
+              "parameter-efficient-learning",
+              "pre-trained-language-models",
+              "prompt-tuning"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -1101,12 +1666,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NIPS2023] RRHF & Wombat",
+            "homepage": null,
             "id": 625845015,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-09-22T03:26:38Z",
+            "open_issues": 26,
             "owner": "GanjinZero",
             "repo": "RRHF",
-            "stars": 804
+            "stars": 804,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -1117,12 +1687,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Accepted by Transactions on Machine Learning Research (TMLR)",
+            "homepage": null,
             "id": 660450114,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-10-05T09:52:35Z",
+            "open_issues": 0,
             "owner": "Zyq-scut",
             "repo": "RLTF",
-            "stars": 133
+            "stars": 133,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         }
@@ -1139,12 +1714,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A large annotated semantic parsing corpus for developing natural language interfaces.",
+            "homepage": null,
             "id": 100076574,
             "language": "HTML",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-10-06T11:06:57Z",
+            "open_issues": 29,
             "owner": "salesforce",
             "repo": "WikiSQL",
-            "stars": 1805
+            "stars": 1805,
+            "topics": [
+              "database",
+              "dataset",
+              "machine-learning",
+              "natural-language",
+              "natural-language-interface",
+              "natural-language-processing"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -1155,12 +1742,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DAMO-ConvAI: The official repository which contains the codebase for Alibaba DAMO Conversational AI.",
+            "homepage": null,
             "id": 514217147,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-10T11:18:20Z",
+            "open_issues": 79,
             "owner": "AlibabaResearch",
             "repo": "DAMO-ConvAI",
-            "stars": 1580
+            "stars": 1580,
+            "topics": [
+              "conversational-ai",
+              "deep-learning",
+              "dialog",
+              "natural-language-processing"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -1171,12 +1768,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "scripts and baselines for Spider: Yale complex and cross-domain semantic parsing and text-to-SQL challenge",
+            "homepage": "https://yale-lily.github.io/spider",
             "id": 150050402,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-29T03:16:42Z",
+            "open_issues": 70,
             "owner": "taoyds",
             "repo": "spider",
-            "stars": 1095
+            "stars": 1095,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -1187,12 +1789,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2025 Oral] Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows",
+            "homepage": "https://spider2-sql.github.io",
             "id": 845868425,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-12T13:01:36Z",
+            "open_issues": 119,
             "owner": "xlang-ai",
             "repo": "Spider2",
-            "stars": 861
+            "stars": 861,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -1203,12 +1810,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "scripts and baselines for CSpider: Chinese semantic parsing and text-to-SQL challenge",
+            "homepage": "https://taolusi.github.io/CSpider-explorer/",
             "id": 202292691,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-03-12T12:00:08Z",
+            "open_issues": 8,
             "owner": "taolusi",
             "repo": "chisp",
-            "stars": 203
+            "stars": 203,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -1219,12 +1831,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 817477385,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-11-06T15:18:47Z",
+            "open_issues": 8,
             "owner": "bird-bench",
             "repo": "mini_dev",
-            "stars": 181
+            "stars": 181,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -1235,12 +1852,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "scripts and baselines for SParC: Yale & Salesforce Semantic Parsing and Text-to-SQL in Context Challenge",
+            "homepage": "https://yale-lily.github.io/sparc",
             "id": 193794944,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-05-24T09:02:29Z",
+            "open_issues": 10,
             "owner": "taoyds",
             "repo": "sparc",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -1251,12 +1873,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Introduction page of a challenging text-to-SQL dataset: KaggleDBQA",
+            "homepage": null,
             "id": 439738419,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2023-09-20T17:49:43Z",
+            "open_issues": 2,
             "owner": "Chia-Hsuan-Lee",
             "repo": "KaggleDBQA",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "dataset",
+              "kaggle",
+              "kaggle-dataset",
+              "natural-language-processing",
+              "question-answering",
+              "semantic-parsing",
+              "spider",
+              "text-to-sql"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         }
@@ -1273,12 +1909,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source Text2SQL tool that transforms natural language into SQL using graph-powered schema understanding. Ask your database questions in plain English, QueryWeaver handles the weaving.",
+            "homepage": "https://app.queryweaver.ai",
             "id": 1027340108,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-26T12:51:21Z",
+            "open_issues": 59,
             "owner": "FalkorDB",
             "repo": "QueryWeaver",
-            "stars": 1071
+            "stars": 1071,
+            "topics": [
+              "falkordb",
+              "semantic-layer",
+              "text2sql"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -1289,12 +1934,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "End-to-End Local-First Text-to-SQL Pipelines",
+            "homepage": "https://docs.premai.io/premsql/introduction",
             "id": 828661899,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-02-14T17:41:42Z",
+            "open_issues": 11,
             "owner": "premAI-io",
             "repo": "premsql",
-            "stars": 462
+            "stars": 462,
+            "topics": [
+              "database",
+              "llama",
+              "llm",
+              "opensource",
+              "rag",
+              "text-to-sql"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         }
@@ -1311,12 +1968,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+            "homepage": "https://llamafactory.readthedocs.io",
             "id": 646410686,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T10:50:57Z",
+            "open_issues": 1138,
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 74429
+            "stars": 74430,
+            "topics": [
+              "agent",
+              "ai",
+              "deepseek",
+              "fine-tuning",
+              "gemma",
+              "gpt",
+              "instruction-tuning",
+              "large-language-models",
+              "llama",
+              "llama3",
+              "llm",
+              "lora",
+              "moe",
+              "nlp",
+              "peft",
+              "qlora",
+              "quantization",
+              "qwen",
+              "rlhf",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -1327,12 +2010,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SoTA LLM for converting natural language questions to SQL queries",
+            "homepage": null,
             "id": 679890936,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-23T03:06:26Z",
+            "open_issues": 0,
             "owner": "defog-ai",
             "repo": "sqlcoder",
-            "stars": 4044
+            "stars": 4044,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -1343,12 +2031,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository that contains models, datasets, and fine-tuning techniques for DB-GPT, with the purpose of enhancing model performance  in Text-to-SQL",
+            "homepage": null,
             "id": 648474263,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-02T03:39:31Z",
+            "open_issues": 73,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT-Hub",
-            "stars": 2009
+            "stars": 2009,
+            "topics": [
+              "database",
+              "datasets",
+              "fine-tuning",
+              "gpt",
+              "hacktoberfest",
+              "llm",
+              "nl2sql",
+              "sql",
+              "text-to-sql",
+              "text2sql"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -1359,12 +2063,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 679138775,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-11-22T15:59:43Z",
+            "open_issues": 4,
             "owner": "run-llama",
             "repo": "modal_finetune_sql",
-            "stars": 324
+            "stars": 324,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -1375,12 +2084,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Text2SQL Engine with advanced RAG",
+            "homepage": "https://datrics.ai",
             "id": 946054524,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-01T11:22:45Z",
+            "open_issues": 3,
             "owner": "datrics-ai",
             "repo": "text2sql",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "llm",
+              "sql",
+              "text2sql"
+            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         }
@@ -1389,15 +2107,38 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:36:43.197Z",
+    "last_updated": "2026-08-29T04:21:53.566Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated tutorials and resources for Large Language Models, Text2SQL,  Text2DSL、Text2API、Text2Vis and more.",
+      "homepage": null,
       "id": 686871971,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-01-26T01:46:37Z",
+      "open_issues": 6,
       "owner": "eosphoros-ai",
       "repo": "Awesome-Text2SQL",
-      "stars": 3746
+      "stars": 3746,
+      "topics": [
+        "ai",
+        "awesome",
+        "datset",
+        "deep-learning",
+        "finetuning",
+        "hacktoberfest",
+        "hacktoberfest2024",
+        "llm",
+        "nl-to-sql",
+        "nl2sql",
+        "nlp",
+        "survey",
+        "test",
+        "text-to-sql",
+        "text2api",
+        "text2dsl",
+        "text2sql"
+      ]
     },
     "original_repository_sha": "ab3fd156c491abdd9ba04da5bdd7b861c2ee0da2",
     "enhanced_repository": "enhansome/enhansome-Awesome-Text2SQL",
