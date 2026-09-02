@@ -96,7 +96,7 @@
             "open_issues": 73,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT-Hub",
-            "stars": 2007,
+            "stars": 2008,
             "topics": [
               "database",
               "datasets",
@@ -517,6 +517,27 @@
         },
         {
           "node_type": "item",
+          "title": "(2024-arXiv, None) CHESS: Contextual Harnessing for Efficient SQL Synthesis [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Contextual Harnessing for Efficient SQL Synthesis",
+            "homepage": null,
+            "id": 817915982,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2025-05-26T21:26:00Z",
+            "open_issues": 14,
+            "owner": "ShayanTalaei",
+            "repo": "CHESS",
+            "stars": 281,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T23:36:43.197Z"
+        },
+        {
+          "node_type": "item",
           "title": "(2023-AAAI 2023, CCF-A) RESDSQL: Decoupling Schema Linking and Skeleton Parsing for Text-to-SQL [paper",
           "description": "] [code]",
           "children": [],
@@ -532,27 +553,6 @@
             "owner": "RUCKBReasoning",
             "repo": "RESDSQL",
             "stars": 281,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:36:43.197Z"
-        },
-        {
-          "node_type": "item",
-          "title": "(2024-arXiv, None) CHESS: Contextual Harnessing for Efficient SQL Synthesis [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Contextual Harnessing for Efficient SQL Synthesis",
-            "homepage": null,
-            "id": 817915982,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2025-05-26T21:26:00Z",
-            "open_issues": 14,
-            "owner": "ShayanTalaei",
-            "repo": "CHESS",
-            "stars": 280,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -999,7 +999,7 @@
             "open_issues": 531,
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59586,
+            "stars": 59585,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1020,7 +1020,7 @@
             "open_issues": 531,
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59586,
+            "stars": 59585,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1046,7 +1046,7 @@
                 "open_issues": 119,
                 "owner": "THUDM",
                 "repo": "GLM",
-                "stars": 3662,
+                "stars": 3664,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1063,7 +1063,7 @@
             "open_issues": 605,
             "owner": "zai-org",
             "repo": "ChatGLM-6B",
-            "stars": 40981,
+            "stars": 40982,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1081,10 +1081,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-05-01T00:25:53Z",
-            "open_issues": 1041,
+            "open_issues": 1043,
             "owner": "lm-sys",
             "repo": "FastChat",
-            "stars": 39525,
+            "stars": 39521,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1105,7 +1105,7 @@
             "open_issues": 186,
             "owner": "tatsu-lab",
             "repo": "stanford_alpaca",
-            "stars": 30245,
+            "stars": 30241,
             "topics": [
               "deep-learning",
               "instruction-following",
@@ -1193,7 +1193,7 @@
             "open_issues": 66,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27585,
+            "stars": 27586,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1214,7 +1214,7 @@
             "open_issues": 66,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27585,
+            "stars": 27586,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1235,7 +1235,7 @@
             "open_issues": 66,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27585,
+            "stars": 27586,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1253,10 +1253,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-03-05T13:55:17Z",
-            "open_issues": 37,
+            "open_issues": 39,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21687,
+            "stars": 21689,
             "topics": [
               "chinese",
               "flash-attention",
@@ -1331,7 +1331,7 @@
             "open_issues": 1,
             "owner": "mistralai",
             "repo": "mistral-inference",
-            "stars": 10832,
+            "stars": 10833,
             "topics": [
               "llm",
               "llm-inference",
@@ -1352,11 +1352,11 @@
             "id": 749703336,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-27T06:50:07Z",
+            "last_commit": "2026-09-02T01:18:54Z",
             "open_issues": 19,
             "owner": "OpenBMB",
             "repo": "MiniCPM",
-            "stars": 10289,
+            "stars": 10293,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1398,7 +1398,7 @@
             "open_issues": 58,
             "owner": "deepseek-ai",
             "repo": "DeepSeek-LLM",
-            "stars": 7258,
+            "stars": 7259,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1544,7 +1544,7 @@
             "open_issues": 113,
             "owner": "microsoft",
             "repo": "LoRA",
-            "stars": 13769,
+            "stars": 13772,
             "topics": [
               "adaptation",
               "deberta",
@@ -1593,11 +1593,11 @@
             "id": 240541316,
             "language": "Jupyter Notebook",
             "license": null,
-            "last_commit": "2026-09-01T15:06:34Z",
-            "open_issues": 250,
+            "last_commit": "2026-09-02T12:16:16Z",
+            "open_issues": 251,
             "owner": "huggingface",
             "repo": "blog",
-            "stars": 3508,
+            "stars": 3511,
             "topics": [
               "hacktoberfest"
             ]
@@ -1777,7 +1777,7 @@
             "open_issues": 70,
             "owner": "taoyds",
             "repo": "spider",
-            "stars": 1096,
+            "stars": 1097,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1914,11 +1914,11 @@
             "id": 1027340108,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-01T12:48:42Z",
+            "last_commit": "2026-09-02T09:07:06Z",
             "open_issues": 59,
             "owner": "FalkorDB",
             "repo": "QueryWeaver",
-            "stars": 1072,
+            "stars": 1073,
             "topics": [
               "falkordb",
               "semantic-layer",
@@ -1973,11 +1973,11 @@
             "id": 646410686,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T08:13:07Z",
-            "open_issues": 1140,
+            "last_commit": "2026-09-02T07:52:23Z",
+            "open_issues": 1142,
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 74502,
+            "stars": 74525,
             "topics": [
               "agent",
               "ai",
@@ -2040,7 +2040,7 @@
             "open_issues": 73,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT-Hub",
-            "stars": 2007,
+            "stars": 2008,
             "topics": [
               "database",
               "datasets",
@@ -2107,7 +2107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T17:54:00.040Z",
+    "last_updated": "2026-09-02T17:58:09.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated tutorials and resources for Large Language Models, Text2SQL,  Text2DSL、Text2API、Text2Vis and more.",
@@ -2119,7 +2119,7 @@
       "open_issues": 6,
       "owner": "eosphoros-ai",
       "repo": "Awesome-Text2SQL",
-      "stars": 3747,
+      "stars": 3746,
       "topics": [
         "ai",
         "awesome",
