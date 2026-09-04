@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "HKUSTDial",
             "repo": "NL2SQL_Handbook",
-            "stars": 1580,
+            "stars": 1583,
             "topics": [
               "ai4db",
               "awesome",
@@ -240,7 +240,7 @@
             "open_issues": 80,
             "owner": "AlibabaResearch",
             "repo": "DAMO-ConvAI",
-            "stars": 1590,
+            "stars": 1592,
             "topics": [
               "conversational-ai",
               "deep-learning",
@@ -266,7 +266,7 @@
             "open_issues": 80,
             "owner": "AlibabaResearch",
             "repo": "DAMO-ConvAI",
-            "stars": 1590,
+            "stars": 1592,
             "topics": [
               "conversational-ai",
               "deep-learning",
@@ -393,7 +393,7 @@
             "open_issues": 43,
             "owner": "xiaojunxu",
             "repo": "SQLNet",
-            "stars": 433,
+            "stars": 432,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -456,7 +456,7 @@
             "open_issues": 5,
             "owner": "wbbeyourself",
             "repo": "MAC-SQL",
-            "stars": 346,
+            "stars": 347,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -510,7 +510,7 @@
             "open_issues": 30,
             "owner": "microsoft",
             "repo": "IRNet",
-            "stars": 291,
+            "stars": 290,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -636,6 +636,37 @@
         },
         {
           "node_type": "item",
+          "title": "(2024-VLDB, CCF-A) SuperSQL: The Dawn of Natural Language to SQL: Are We Fully Ready? [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🔥[VLDB'24] Official repository for the paper “The Dawn of Natural Language to SQL: Are We Fully Ready?” ",
+            "homepage": "https://www.vldb.org/pvldb/vol17/p3318-luo.pdf",
+            "id": 749810395,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-10-02T04:07:45Z",
+            "open_issues": 0,
+            "owner": "HKUSTDial",
+            "repo": "NL2SQL360",
+            "stars": 141,
+            "topics": [
+              "awesome",
+              "awesome-nl2sql",
+              "awesome-text2sql",
+              "evaluation-framework",
+              "evaluation-metrics",
+              "nl2sql-evaluation",
+              "text-to-sql",
+              "text2sql",
+              "text2sql-evaluation"
+            ]
+          },
+          "first_seen": "2026-08-28T23:36:43.197Z"
+        },
+        {
+          "node_type": "item",
           "title": "(2019-ACL, CCF-A) Representing Schema Structure with Graph Neural Networks for Text-to-SQL Parsing [paper",
           "description": "] [code]",
           "children": [],
@@ -652,37 +683,6 @@
             "repo": "spider-schema-gnn",
             "stars": 141,
             "topics": []
-          },
-          "first_seen": "2026-08-28T23:36:43.197Z"
-        },
-        {
-          "node_type": "item",
-          "title": "(2024-VLDB, CCF-A) SuperSQL: The Dawn of Natural Language to SQL: Are We Fully Ready? [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🔥[VLDB'24] Official repository for the paper “The Dawn of Natural Language to SQL: Are We Fully Ready?” ",
-            "homepage": "https://www.vldb.org/pvldb/vol17/p3318-luo.pdf",
-            "id": 749810395,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-10-02T04:07:45Z",
-            "open_issues": 0,
-            "owner": "HKUSTDial",
-            "repo": "NL2SQL360",
-            "stars": 140,
-            "topics": [
-              "awesome",
-              "awesome-nl2sql",
-              "awesome-text2sql",
-              "evaluation-framework",
-              "evaluation-metrics",
-              "nl2sql-evaluation",
-              "text-to-sql",
-              "text2sql",
-              "text2sql-evaluation"
-            ]
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -999,7 +999,7 @@
             "open_issues": 531,
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59588,
+            "stars": 59595,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1020,7 +1020,7 @@
             "open_issues": 531,
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59588,
+            "stars": 59595,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1063,7 +1063,7 @@
             "open_issues": 605,
             "owner": "zai-org",
             "repo": "ChatGLM-6B",
-            "stars": 40980,
+            "stars": 40979,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1081,10 +1081,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-05-01T00:25:53Z",
-            "open_issues": 1044,
+            "open_issues": 1045,
             "owner": "lm-sys",
             "repo": "FastChat",
-            "stars": 39519,
+            "stars": 39521,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1105,7 +1105,7 @@
             "open_issues": 186,
             "owner": "tatsu-lab",
             "repo": "stanford_alpaca",
-            "stars": 30240,
+            "stars": 30237,
             "topics": [
               "deep-learning",
               "instruction-following",
@@ -1130,7 +1130,7 @@
             "open_issues": 215,
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29239,
+            "stars": 29236,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1151,7 +1151,7 @@
             "open_issues": 215,
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29239,
+            "stars": 29236,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1172,7 +1172,7 @@
             "open_issues": 215,
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29239,
+            "stars": 29236,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1193,7 +1193,7 @@
             "open_issues": 66,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27589,
+            "stars": 27590,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1214,7 +1214,7 @@
             "open_issues": 66,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27589,
+            "stars": 27590,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1235,7 +1235,7 @@
             "open_issues": 66,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27589,
+            "stars": 27590,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1256,7 +1256,7 @@
             "open_issues": 42,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21693,
+            "stars": 21695,
             "topics": [
               "chinese",
               "flash-attention",
@@ -1284,7 +1284,7 @@
             "open_issues": 116,
             "owner": "meta-llama",
             "repo": "codellama",
-            "stars": 16266,
+            "stars": 16265,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1331,7 +1331,7 @@
             "open_issues": 1,
             "owner": "mistralai",
             "repo": "mistral-inference",
-            "stars": 10833,
+            "stars": 10832,
             "topics": [
               "llm",
               "llm-inference",
@@ -1352,11 +1352,11 @@
             "id": 749703336,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T01:18:54Z",
+            "last_commit": "2026-09-04T02:49:31Z",
             "open_issues": 19,
             "owner": "OpenBMB",
             "repo": "MiniCPM",
-            "stars": 10299,
+            "stars": 10306,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1544,7 +1544,7 @@
             "open_issues": 114,
             "owner": "microsoft",
             "repo": "LoRA",
-            "stars": 13775,
+            "stars": 13776,
             "topics": [
               "adaptation",
               "deberta",
@@ -1576,7 +1576,7 @@
             "open_issues": 206,
             "owner": "artidoro",
             "repo": "qlora",
-            "stars": 11004,
+            "stars": 11003,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1594,10 +1594,10 @@
             "language": "Jupyter Notebook",
             "license": null,
             "last_commit": "2026-09-03T11:32:15Z",
-            "open_issues": 247,
+            "open_issues": 249,
             "owner": "huggingface",
             "repo": "blog",
-            "stars": 3511,
+            "stars": 3512,
             "topics": [
               "hacktoberfest"
             ]
@@ -1751,7 +1751,7 @@
             "open_issues": 80,
             "owner": "AlibabaResearch",
             "repo": "DAMO-ConvAI",
-            "stars": 1590,
+            "stars": 1592,
             "topics": [
               "conversational-ai",
               "deep-learning",
@@ -1777,7 +1777,7 @@
             "open_issues": 70,
             "owner": "taoyds",
             "repo": "spider",
-            "stars": 1097,
+            "stars": 1098,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1795,10 +1795,10 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2026-08-12T13:01:36Z",
-            "open_issues": 120,
+            "open_issues": 121,
             "owner": "xlang-ai",
             "repo": "Spider2",
-            "stars": 861,
+            "stars": 863,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1918,7 +1918,7 @@
             "open_issues": 59,
             "owner": "FalkorDB",
             "repo": "QueryWeaver",
-            "stars": 1074,
+            "stars": 1075,
             "topics": [
               "falkordb",
               "semantic-layer",
@@ -1973,11 +1973,11 @@
             "id": 646410686,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T07:52:23Z",
-            "open_issues": 1141,
+            "last_commit": "2026-09-04T08:15:24Z",
+            "open_issues": 1140,
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 74555,
+            "stars": 74577,
             "topics": [
               "agent",
               "ai",
@@ -2107,7 +2107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:56:27.231Z",
+    "last_updated": "2026-09-04T17:41:28.884Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated tutorials and resources for Large Language Models, Text2SQL,  Text2DSL、Text2API、Text2Vis and more.",
@@ -2119,7 +2119,7 @@
       "open_issues": 6,
       "owner": "eosphoros-ai",
       "repo": "Awesome-Text2SQL",
-      "stars": 3749,
+      "stars": 3750,
       "topics": [
         "ai",
         "awesome",
