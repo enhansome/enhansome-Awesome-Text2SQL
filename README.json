@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "HKUSTDial",
             "repo": "NL2SQL_Handbook",
-            "stars": 1587,
+            "stars": 1589,
             "topics": [
               "ai4db",
               "awesome",
@@ -456,7 +456,7 @@
             "open_issues": 5,
             "owner": "wbbeyourself",
             "repo": "MAC-SQL",
-            "stars": 349,
+            "stars": 350,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -517,27 +517,6 @@
         },
         {
           "node_type": "item",
-          "title": "(2024-arXiv, None) CHESS: Contextual Harnessing for Efficient SQL Synthesis [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Contextual Harnessing for Efficient SQL Synthesis",
-            "homepage": null,
-            "id": 817915982,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2025-05-26T21:26:00Z",
-            "open_issues": 14,
-            "owner": "ShayanTalaei",
-            "repo": "CHESS",
-            "stars": 281,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:36:43.197Z"
-        },
-        {
-          "node_type": "item",
           "title": "(2023-AAAI 2023, CCF-A) RESDSQL: Decoupling Schema Linking and Skeleton Parsing for Text-to-SQL [paper",
           "description": "] [code]",
           "children": [],
@@ -552,6 +531,27 @@
             "open_issues": 14,
             "owner": "RUCKBReasoning",
             "repo": "RESDSQL",
+            "stars": 282,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T23:36:43.197Z"
+        },
+        {
+          "node_type": "item",
+          "title": "(2024-arXiv, None) CHESS: Contextual Harnessing for Efficient SQL Synthesis [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Contextual Harnessing for Efficient SQL Synthesis",
+            "homepage": null,
+            "id": 817915982,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2025-05-26T21:26:00Z",
+            "open_issues": 14,
+            "owner": "ShayanTalaei",
+            "repo": "CHESS",
             "stars": 281,
             "topics": []
           },
@@ -999,7 +999,7 @@
             "open_issues": 531,
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59603,
+            "stars": 59607,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1020,7 +1020,7 @@
             "open_issues": 531,
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59603,
+            "stars": 59607,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1046,7 +1046,7 @@
                 "open_issues": 119,
                 "owner": "THUDM",
                 "repo": "GLM",
-                "stars": 3669,
+                "stars": 3670,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1060,7 +1060,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-06-27T04:05:25Z",
-            "open_issues": 605,
+            "open_issues": 604,
             "owner": "zai-org",
             "repo": "ChatGLM-6B",
             "stars": 40967,
@@ -1105,7 +1105,7 @@
             "open_issues": 186,
             "owner": "tatsu-lab",
             "repo": "stanford_alpaca",
-            "stars": 30242,
+            "stars": 30243,
             "topics": [
               "deep-learning",
               "instruction-following",
@@ -1130,7 +1130,7 @@
             "open_issues": 215,
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29224,
+            "stars": 29221,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1151,7 +1151,7 @@
             "open_issues": 215,
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29224,
+            "stars": 29221,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1172,7 +1172,7 @@
             "open_issues": 215,
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29224,
+            "stars": 29221,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1193,7 +1193,7 @@
             "open_issues": 67,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27600,
+            "stars": 27606,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1214,7 +1214,7 @@
             "open_issues": 67,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27600,
+            "stars": 27606,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1235,7 +1235,7 @@
             "open_issues": 67,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27600,
+            "stars": 27606,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1256,7 +1256,7 @@
             "open_issues": 43,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21709,
+            "stars": 21710,
             "topics": [
               "chinese",
               "flash-attention",
@@ -1317,6 +1317,27 @@
         },
         {
           "node_type": "item",
+          "title": "MiniCPM [paper",
+          "description": "] [code] [model]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "MiniCPM5: SOTA on-device LLMs, small yet powerful.",
+            "homepage": null,
+            "id": 749703336,
+            "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-10T09:08:35Z",
+            "open_issues": 15,
+            "owner": "OpenBMB",
+            "repo": "MiniCPM",
+            "stars": 10852,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T23:36:43.197Z"
+        },
+        {
+          "node_type": "item",
           "title": "Mistral-7B [paper",
           "description": "] [code] [model]",
           "children": [],
@@ -1337,27 +1358,6 @@
               "llm-inference",
               "mistralai"
             ]
-          },
-          "first_seen": "2026-08-28T23:36:43.197Z"
-        },
-        {
-          "node_type": "item",
-          "title": "MiniCPM [paper",
-          "description": "] [code] [model]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "MiniCPM5: SOTA on-device LLMs, small yet powerful.",
-            "homepage": null,
-            "id": 749703336,
-            "language": "Jupyter Notebook",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-10T09:08:35Z",
-            "open_issues": 14,
-            "owner": "OpenBMB",
-            "repo": "MiniCPM",
-            "stars": 10798,
-            "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
         },
@@ -1398,7 +1398,7 @@
             "open_issues": 58,
             "owner": "deepseek-ai",
             "repo": "DeepSeek-LLM",
-            "stars": 7246,
+            "stars": 7249,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1544,7 +1544,7 @@
             "open_issues": 114,
             "owner": "microsoft",
             "repo": "LoRA",
-            "stars": 13787,
+            "stars": 13788,
             "topics": [
               "adaptation",
               "deberta",
@@ -1576,7 +1576,7 @@
             "open_issues": 206,
             "owner": "artidoro",
             "repo": "qlora",
-            "stars": 11011,
+            "stars": 11012,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1795,7 +1795,7 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2026-08-12T13:01:36Z",
-            "open_issues": 124,
+            "open_issues": 125,
             "owner": "xlang-ai",
             "repo": "Spider2",
             "stars": 868,
@@ -1977,7 +1977,7 @@
             "open_issues": 1149,
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 74694,
+            "stars": 74713,
             "topics": [
               "agent",
               "ai",
@@ -2019,7 +2019,7 @@
             "open_issues": 0,
             "owner": "defog-ai",
             "repo": "sqlcoder",
-            "stars": 4049,
+            "stars": 4048,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -2107,7 +2107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T17:45:52.952Z",
+    "last_updated": "2026-09-11T17:48:14.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated tutorials and resources for Large Language Models, Text2SQL,  Text2DSL、Text2API、Text2Vis and more.",
@@ -2119,7 +2119,7 @@
       "open_issues": 6,
       "owner": "eosphoros-ai",
       "repo": "Awesome-Text2SQL",
-      "stars": 3753,
+      "stars": 3754,
       "topics": [
         "ai",
         "awesome",
