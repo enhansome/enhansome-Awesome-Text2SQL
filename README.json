@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "(2025-TKDE, CCF-A) A Survey of Text-to-SQL in the Era of LLMs: Where are we, and where are we going? [paper",
-          "description": "] [code]",
+          "description": "HKUSTDial/NL2SQL_Handbook",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "HKUSTDial",
             "repo": "NL2SQL_Handbook",
-            "stars": 1606,
+            "stars": 1607,
             "topics": [
               "ai4db",
               "awesome",
@@ -43,7 +43,7 @@
         {
           "node_type": "item",
           "title": "(2025-TKDE, CCF-A) Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL [paper",
-          "description": "] [code]",
+          "description": "DEEP-PolyU/Awesome-LLM-based-Text2SQL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -83,7 +83,7 @@
         {
           "node_type": "item",
           "title": "(2024-arXiv, None) DB-GPT-Hub: Towards Open Benchmarking Text-to-SQL Empowered by Large Language Models [paper",
-          "description": "] [code]",
+          "description": "eosphoros-ai/DB-GPT-Hub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -115,7 +115,7 @@
         {
           "node_type": "item",
           "title": "(2022-NAACL, CCF-B) SeaD: End-to-end Text-to-SQL Generation with Schema-aware Denoising [paper",
-          "description": "]",
+          "description": "salesforce/WikiSQL",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -143,7 +143,7 @@
         {
           "node_type": "item",
           "title": "(2021-NAACL, CCF-B) Structure-Grounded Pretraining for Text-to-SQL [paper",
-          "description": "]",
+          "description": "salesforce/WikiSQL",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -171,7 +171,7 @@
         {
           "node_type": "item",
           "title": "(2020-EMNLP, CCF-B) Mention Extraction and Linking for SQL Query Generation [paper",
-          "description": "]",
+          "description": "salesforce/WikiSQL",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -199,7 +199,7 @@
         {
           "node_type": "item",
           "title": "(2019-arXiv, None) X-SQL: reinforce schema representation with context [paper",
-          "description": "]",
+          "description": "salesforce/WikiSQL",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -227,7 +227,7 @@
         {
           "node_type": "item",
           "title": "(2023-arXiv, None) Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQLs [paper",
-          "description": "] [code]",
+          "description": "AlibabaResearch/DAMO-ConvAI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -253,7 +253,7 @@
         {
           "node_type": "item",
           "title": "(2022-EMNLP, CCF-B) STAR: SQL Guided Pre-Training for Context-dependent Text-to-SQL Parsing [paper",
-          "description": "] [code]",
+          "description": "AlibabaResearch/DAMO-ConvAI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -279,7 +279,7 @@
         {
           "node_type": "item",
           "title": "(2021-ICLR, CCF-A) SCORE: Pre-training for Context Representation in Conversational Semantic Parsing [paper",
-          "description": "]",
+          "description": "budzianowski/multiwoz",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -309,7 +309,7 @@
         {
           "node_type": "item",
           "title": "(2023-arXiv, None) Text-to-SQL Empowered by Large Language Models: A Benchmark Evaluation [paper",
-          "description": "] [code]",
+          "description": "BeachWang/DAIL-SQL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -330,7 +330,7 @@
         {
           "node_type": "item",
           "title": "(2020-ACL, CCF-A) TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data [paper",
-          "description": "] [code]",
+          "description": "facebookresearch/TaBERT",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -351,7 +351,7 @@
         {
           "node_type": "item",
           "title": "(2020-ACL, CCF-A) RAT-SQL: Relation-Aware Schema Encoding and Linking for Text-to-SQL Parsers [paper",
-          "description": "] [code]",
+          "description": "microsoft/rat-sql",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -380,7 +380,7 @@
         {
           "node_type": "item",
           "title": "(2017-arXiv, None) SQLNet: Generating Structured Queries From Natural Language Without Reinforcement Learning [paper",
-          "description": "] [code]",
+          "description": "xiaojunxu/SQLNet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -401,7 +401,7 @@
         {
           "node_type": "item",
           "title": "(2023-arXiv, None) DIN-SQL: Decomposed In-Context Learning of Text-to-SQL with Self-Correction [paper",
-          "description": "] [code]",
+          "description": "MohammadrezaPourreza/Few-shot-NL2SQL-with-prompting",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -422,7 +422,7 @@
         {
           "node_type": "item",
           "title": "(2021-EMNLP, CCF-B) PICARD:Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models [paper",
-          "description": "] [code]",
+          "description": "ServiceNow/picard",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -443,7 +443,7 @@
         {
           "node_type": "item",
           "title": "(2025-ACL, CCF-A) MAC-SQL: A Multi-Agent Collaborative Framework for Text-to-SQL [paper",
-          "description": "] [code]",
+          "description": "wbbeyourself/MAC-SQL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -464,7 +464,7 @@
         {
           "node_type": "item",
           "title": "(2023-ICLR, CCF-A) Binding Language Models in Symbolic Languages [paper",
-          "description": "] [code]",
+          "description": "xlang-ai/Binder",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -497,7 +497,7 @@
         {
           "node_type": "item",
           "title": "(2019-ACL, CCF-A) Towards Complex Text-to-SQL in Cross-Domain Database with Intermediate Representation [paper",
-          "description": "] [code]",
+          "description": "microsoft/IRNet",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -518,7 +518,7 @@
         {
           "node_type": "item",
           "title": "(2023-AAAI 2023, CCF-A) RESDSQL: Decoupling Schema Linking and Skeleton Parsing for Text-to-SQL [paper",
-          "description": "] [code]",
+          "description": "RUCKBReasoning/RESDSQL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -539,7 +539,7 @@
         {
           "node_type": "item",
           "title": "(2024-arXiv, None) CHESS: Contextual Harnessing for Efficient SQL Synthesis [paper",
-          "description": "] [code]",
+          "description": "ShayanTalaei/CHESS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -560,7 +560,7 @@
         {
           "node_type": "item",
           "title": "(2020-EMNLP, CCF-B) Bridging Textual and Tabular Data for Cross-Domain Text-to-SQL Semantic Parsing [paper",
-          "description": "] [code]",
+          "description": "salesforce/TabularSemanticParsing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -588,7 +588,7 @@
         {
           "node_type": "item",
           "title": "(2019-EMNLP, CCF-B) Editing-Based SQL Query Generation for Cross-Domain Context-Dependent Questions [paper",
-          "description": "] [code]",
+          "description": "ryanzhumich/editsql",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -609,7 +609,7 @@
         {
           "node_type": "item",
           "title": "(2021-ACL, CCF-A) LGESQL: Line Graph Enhanced Text-to-SQL Model with Mixed Local and Non-Local Relations [paper",
-          "description": "] [code]",
+          "description": "X-LANCE/text2sql-lgesql",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -637,7 +637,7 @@
         {
           "node_type": "item",
           "title": "(2024-VLDB, CCF-A) SuperSQL: The Dawn of Natural Language to SQL: Are We Fully Ready? [paper",
-          "description": "] [code]",
+          "description": "HKUSTDial/NL2SQL360",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -668,7 +668,7 @@
         {
           "node_type": "item",
           "title": "(2019-ACL, CCF-A) Representing Schema Structure with Graph Neural Networks for Text-to-SQL Parsing [paper",
-          "description": "] [code]",
+          "description": "benbogin/spider-schema-gnn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -689,7 +689,7 @@
         {
           "node_type": "item",
           "title": "(2025-EDBT, CCF-B) DBCᴏᴘɪʟᴏᴛ: Natural Language Querying over Massive Databases via Schema Routing [paper",
-          "description": "] [code]",
+          "description": "tshu-w/DBCopilot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -715,7 +715,7 @@
         {
           "node_type": "item",
           "title": "(2018-EMNLP, CCF-B) SyntaxSQLNet: Syntax Tree Networks for Complex and Cross-DomainText-to-SQL Task [paper",
-          "description": "] [code]",
+          "description": "taoyds/syntaxSQL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -736,7 +736,7 @@
         {
           "node_type": "item",
           "title": "(2018-NAACL, CCF-B) TypeSQL: Knowledge-based Type-Aware Neural Text-to-SQL Generation [paper",
-          "description": "] [code]",
+          "description": "taoyds/typesql",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -757,7 +757,7 @@
         {
           "node_type": "item",
           "title": "(2023-arXiv, None) A comprehensive evaluation of ChatGPT's zero-shot Text-to-SQL capability [paper",
-          "description": "] [code]",
+          "description": "THU-BPM/chatgpt-sql",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -778,7 +778,7 @@
         {
           "node_type": "item",
           "title": "(2019-EMNLP, CCF-B) Global Reasoning over Database Structures for Text-to-SQL Parsing [paper",
-          "description": "] [code]",
+          "description": "benbogin/spider-schema-gnn-global",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -799,7 +799,7 @@
         {
           "node_type": "item",
           "title": "(2020-arXiv, None) Hybrid Ranking Network for Text-to-SQL [paper",
-          "description": "] [code]",
+          "description": "lyuqin/HydraNet-WikiSQL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -824,7 +824,7 @@
         {
           "node_type": "item",
           "title": "(2022-EMNLP, CCF-B) RASAT: Integrating Relational Structures into Pretrained Seq2Seq Model for Text-to-SQL [paper",
-          "description": "] [code]",
+          "description": "LUMIA-Group/rasat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -845,7 +845,7 @@
         {
           "node_type": "item",
           "title": "(2024-arXiv, None) E-SQL: Direct Schema Linking via Question Enrichment in Text-to-SQL [paper",
-          "description": "] [code]",
+          "description": "HasanAlpCaferoglu/E-SQL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -866,7 +866,7 @@
         {
           "node_type": "item",
           "title": "(2025-NAACL, CCF-B) You Only Read Once (YORO): Learning to Internalize Database Knowledge for Text-to-SQL [paper",
-          "description": "]",
+          "description": "Chia-Hsuan-Lee/KaggleDBQA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -896,7 +896,7 @@
         {
           "node_type": "item",
           "title": "(2021-ICLR, CCF-A) GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing [paper",
-          "description": "] [code]",
+          "description": "taoyds/grappa",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -917,7 +917,7 @@
         {
           "node_type": "item",
           "title": "(2020-EMNLP, CCF-B) IGSQL: Database Schema Interaction Graph Based Neural Model for Context-Dependent Text-to-SQL Generation [paper",
-          "description": "] [code]",
+          "description": "headacheboy/IGSQL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -938,7 +938,7 @@
         {
           "node_type": "item",
           "title": "(2023-SIGMOD, CCF-A) Few-shot Text-to-SQL Translation using Structure and Content Prompt Learning [paper",
-          "description": "] [code]",
+          "description": "ruc-datalab/SC-prompt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -959,7 +959,7 @@
         {
           "node_type": "item",
           "title": "(2021-arXiv, None) Pay More Attention to History: A Context Modelling Strategy for Conversational Text-to-SQL [paper",
-          "description": "] [code]",
+          "description": "JuruoMP/RAT-SQL-TC",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1063,7 +1063,7 @@
             "open_issues": 606,
             "owner": "zai-org",
             "repo": "ChatGLM-6B",
-            "stars": 40941,
+            "stars": 40940,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1105,7 +1105,7 @@
             "open_issues": 187,
             "owner": "tatsu-lab",
             "repo": "stanford_alpaca",
-            "stars": 30235,
+            "stars": 30234,
             "topics": [
               "deep-learning",
               "instruction-following",
@@ -1130,7 +1130,7 @@
             "open_issues": 215,
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29201,
+            "stars": 29200,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1151,7 +1151,7 @@
             "open_issues": 215,
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29201,
+            "stars": 29200,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1172,7 +1172,7 @@
             "open_issues": 215,
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29201,
+            "stars": 29200,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1193,7 +1193,7 @@
             "open_issues": 68,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27666,
+            "stars": 27665,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1214,7 +1214,7 @@
             "open_issues": 68,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27666,
+            "stars": 27665,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1235,7 +1235,7 @@
             "open_issues": 68,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27666,
+            "stars": 27665,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1331,7 +1331,7 @@
             "open_issues": 22,
             "owner": "OpenBMB",
             "repo": "MiniCPM",
-            "stars": 11348,
+            "stars": 11350,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1531,7 +1531,7 @@
         {
           "node_type": "item",
           "title": "LoRA [paper",
-          "description": "] [code]",
+          "description": "microsoft/LoRA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1563,7 +1563,7 @@
         {
           "node_type": "item",
           "title": "QLoRA [paper",
-          "description": "] [code]",
+          "description": "artidoro/qlora",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1584,7 +1584,7 @@
         {
           "node_type": "item",
           "title": "RLHF [paper",
-          "description": "] [code]",
+          "description": "huggingface/blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1607,7 +1607,7 @@
         {
           "node_type": "item",
           "title": "P-Tuning V2 [paper",
-          "description": "] [code]",
+          "description": "THUDM/P-tuning-v2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1634,7 +1634,7 @@
         {
           "node_type": "item",
           "title": "P-Tuning [paper",
-          "description": "] [code]",
+          "description": "THUDM/P-tuning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1662,7 +1662,7 @@
         {
           "node_type": "item",
           "title": "RRHF [paper",
-          "description": "] [code]",
+          "description": "GanjinZero/RRHF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1683,7 +1683,7 @@
         {
           "node_type": "item",
           "title": "RLTF [paper",
-          "description": "] [code]",
+          "description": "Zyq-scut/RLTF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1905,7 +1905,7 @@
         {
           "node_type": "item",
           "title": "QueryWeaver",
-          "description": null,
+          "description": "FalkorDB/QueryWeaver",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1930,7 +1930,7 @@
         {
           "node_type": "item",
           "title": "PremSQL",
-          "description": null,
+          "description": "premAI-io/premsql",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1964,7 +1964,7 @@
         {
           "node_type": "item",
           "title": "LLaMA-Efficient-Tuning",
-          "description": null,
+          "description": "hiyouga/LlamaFactory",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1974,10 +1974,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-28T09:10:59Z",
-            "open_issues": 1170,
+            "open_issues": 1171,
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 75280,
+            "stars": 75285,
             "topics": [
               "agent",
               "ai",
@@ -2006,7 +2006,7 @@
         {
           "node_type": "item",
           "title": "sqlcoder",
-          "description": null,
+          "description": "defog-ai/sqlcoder",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2027,7 +2027,7 @@
         {
           "node_type": "item",
           "title": "DB-GPT-Hub",
-          "description": null,
+          "description": "eosphoros-ai/DB-GPT-Hub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2059,7 +2059,7 @@
         {
           "node_type": "item",
           "title": "modal_finetune_sql",
-          "description": null,
+          "description": "run-llama/modal_finetune_sql",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2080,7 +2080,7 @@
         {
           "node_type": "item",
           "title": "Datrics Text2SQL",
-          "description": null,
+          "description": "datrics-ai/text2sql",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2107,7 +2107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:25:52.867Z",
+    "last_updated": "2026-10-03T04:27:13.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated tutorials and resources for Large Language Models, Text2SQL,  Text2DSL、Text2API、Text2Vis and more.",
