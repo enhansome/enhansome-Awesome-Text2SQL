@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "HKUSTDial",
             "repo": "NL2SQL_Handbook",
-            "stars": 1633,
+            "stars": 1634,
             "topics": [
               "ai4db",
               "awesome",
@@ -343,7 +343,7 @@
             "open_issues": 25,
             "owner": "facebookresearch",
             "repo": "TaBERT",
-            "stars": 612,
+            "stars": 611,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -999,7 +999,7 @@
             "open_issues": 538,
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59621,
+            "stars": 59622,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1020,7 +1020,7 @@
             "open_issues": 538,
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59621,
+            "stars": 59622,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1063,7 +1063,7 @@
             "open_issues": 609,
             "owner": "zai-org",
             "repo": "ChatGLM-6B",
-            "stars": 40862,
+            "stars": 40858,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1084,7 +1084,7 @@
             "open_issues": 1048,
             "owner": "lm-sys",
             "repo": "FastChat",
-            "stars": 39547,
+            "stars": 39548,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1130,7 +1130,7 @@
             "open_issues": 215,
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29149,
+            "stars": 29152,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1151,7 +1151,7 @@
             "open_issues": 215,
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29149,
+            "stars": 29152,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1172,7 +1172,7 @@
             "open_issues": 215,
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29149,
+            "stars": 29152,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1193,7 +1193,7 @@
             "open_issues": 69,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27720,
+            "stars": 27719,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1214,7 +1214,7 @@
             "open_issues": 69,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27720,
+            "stars": 27719,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1235,7 +1235,7 @@
             "open_issues": 69,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27720,
+            "stars": 27719,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1256,7 +1256,7 @@
             "open_issues": 40,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 22017,
+            "stars": 22019,
             "topics": [
               "chinese",
               "flash-attention",
@@ -1284,7 +1284,7 @@
             "open_issues": 116,
             "owner": "meta-llama",
             "repo": "codellama",
-            "stars": 16208,
+            "stars": 16206,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1327,11 +1327,11 @@
             "id": 749703336,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T13:38:23Z",
+            "last_commit": "2026-11-09T07:36:54Z",
             "open_issues": 23,
             "owner": "OpenBMB",
             "repo": "MiniCPM",
-            "stars": 11825,
+            "stars": 11835,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1352,7 +1352,7 @@
             "open_issues": 1,
             "owner": "mistralai",
             "repo": "mistral-inference",
-            "stars": 10820,
+            "stars": 10818,
             "topics": [
               "llm",
               "llm-inference",
@@ -1377,7 +1377,7 @@
             "open_issues": 168,
             "owner": "nlpxucan",
             "repo": "WizardLM",
-            "stars": 9472,
+            "stars": 9470,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1398,7 +1398,7 @@
             "open_issues": 62,
             "owner": "deepseek-ai",
             "repo": "DeepSeek-LLM",
-            "stars": 7272,
+            "stars": 7274,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1451,7 +1451,7 @@
             "open_issues": 282,
             "owner": "baichuan-inc",
             "repo": "Baichuan2",
-            "stars": 4074,
+            "stars": 4073,
             "topics": [
               "artificial-intelligence",
               "benchmark",
@@ -1544,7 +1544,7 @@
             "open_issues": 114,
             "owner": "microsoft",
             "repo": "LoRA",
-            "stars": 13913,
+            "stars": 13911,
             "topics": [
               "adaptation",
               "deberta",
@@ -1594,10 +1594,10 @@
             "language": "Jupyter Notebook",
             "license": null,
             "last_commit": "2026-11-06T09:55:58Z",
-            "open_issues": 261,
+            "open_issues": 262,
             "owner": "huggingface",
             "repo": "blog",
-            "stars": 3556,
+            "stars": 3555,
             "topics": [
               "hacktoberfest"
             ]
@@ -1777,7 +1777,7 @@
             "open_issues": 70,
             "owner": "taoyds",
             "repo": "spider",
-            "stars": 1107,
+            "stars": 1108,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1840,7 +1840,7 @@
             "open_issues": 15,
             "owner": "bird-bench",
             "repo": "mini_dev",
-            "stars": 194,
+            "stars": 195,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1914,8 +1914,8 @@
             "id": 1027340108,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-08T12:53:49Z",
-            "open_issues": 63,
+            "last_commit": "2026-11-09T11:01:43Z",
+            "open_issues": 55,
             "owner": "FalkorDB",
             "repo": "QueryWeaver",
             "stars": 1091,
@@ -1943,7 +1943,7 @@
             "open_issues": 11,
             "owner": "premAI-io",
             "repo": "premsql",
-            "stars": 461,
+            "stars": 462,
             "topics": [
               "database",
               "llama",
@@ -1973,11 +1973,11 @@
             "id": 646410686,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T12:20:51Z",
+            "last_commit": "2026-11-09T14:55:42Z",
             "open_issues": 1222,
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 75942,
+            "stars": 75962,
             "topics": [
               "agent",
               "ai",
@@ -2107,7 +2107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T18:55:39.421Z",
+    "last_updated": "2026-11-09T23:29:34.183Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated tutorials and resources for Large Language Models, Text2SQL,  Text2DSL、Text2API、Text2Vis and more.",
@@ -2119,7 +2119,7 @@
       "open_issues": 12,
       "owner": "eosphoros-ai",
       "repo": "Awesome-Text2SQL",
-      "stars": 3782,
+      "stars": 3781,
       "topics": [
         "ai",
         "awesome",
