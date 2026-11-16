@@ -56,7 +56,7 @@
             "open_issues": 2,
             "owner": "DEEP-PolyU",
             "repo": "Awesome-LLM-based-Text2SQL",
-            "stars": 1379,
+            "stars": 1380,
             "topics": [
               "awesome",
               "awesome-text-to-sql",
@@ -128,7 +128,7 @@
             "open_issues": 29,
             "owner": "salesforce",
             "repo": "WikiSQL",
-            "stars": 1800,
+            "stars": 1799,
             "topics": [
               "database",
               "dataset",
@@ -156,7 +156,7 @@
             "open_issues": 29,
             "owner": "salesforce",
             "repo": "WikiSQL",
-            "stars": 1800,
+            "stars": 1799,
             "topics": [
               "database",
               "dataset",
@@ -184,7 +184,7 @@
             "open_issues": 29,
             "owner": "salesforce",
             "repo": "WikiSQL",
-            "stars": 1800,
+            "stars": 1799,
             "topics": [
               "database",
               "dataset",
@@ -212,7 +212,7 @@
             "open_issues": 29,
             "owner": "salesforce",
             "repo": "WikiSQL",
-            "stars": 1800,
+            "stars": 1799,
             "topics": [
               "database",
               "dataset",
@@ -240,7 +240,7 @@
             "open_issues": 85,
             "owner": "AlibabaResearch",
             "repo": "DAMO-ConvAI",
-            "stars": 1623,
+            "stars": 1625,
             "topics": [
               "conversational-ai",
               "deep-learning",
@@ -266,7 +266,7 @@
             "open_issues": 85,
             "owner": "AlibabaResearch",
             "repo": "DAMO-ConvAI",
-            "stars": 1623,
+            "stars": 1625,
             "topics": [
               "conversational-ai",
               "deep-learning",
@@ -292,7 +292,7 @@
             "open_issues": 21,
             "owner": "budzianowski",
             "repo": "multiwoz",
-            "stars": 963,
+            "stars": 964,
             "topics": [
               "dialogue",
               "dialogue-library",
@@ -343,7 +343,7 @@
             "open_issues": 25,
             "owner": "facebookresearch",
             "repo": "TaBERT",
-            "stars": 611,
+            "stars": 612,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -477,7 +477,7 @@
             "open_issues": 3,
             "owner": "xlang-ai",
             "repo": "Binder",
-            "stars": 324,
+            "stars": 325,
             "topics": [
               "fact-verification",
               "in-context-learning",
@@ -996,10 +996,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2025-01-26T21:42:26Z",
-            "open_issues": 538,
+            "open_issues": 537,
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59624,
+            "stars": 59632,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1017,10 +1017,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2025-01-26T21:42:26Z",
-            "open_issues": 538,
+            "open_issues": 537,
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59624,
+            "stars": 59632,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1063,7 +1063,7 @@
             "open_issues": 609,
             "owner": "zai-org",
             "repo": "ChatGLM-6B",
-            "stars": 40848,
+            "stars": 40847,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1084,7 +1084,7 @@
             "open_issues": 1052,
             "owner": "lm-sys",
             "repo": "FastChat",
-            "stars": 39551,
+            "stars": 39549,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1105,7 +1105,7 @@
             "open_issues": 186,
             "owner": "tatsu-lab",
             "repo": "stanford_alpaca",
-            "stars": 30221,
+            "stars": 30222,
             "topics": [
               "deep-learning",
               "instruction-following",
@@ -1130,7 +1130,7 @@
             "open_issues": 214,
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29145,
+            "stars": 29144,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1151,7 +1151,7 @@
             "open_issues": 214,
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29145,
+            "stars": 29144,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1172,7 +1172,7 @@
             "open_issues": 214,
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29145,
+            "stars": 29144,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1193,7 +1193,7 @@
             "open_issues": 70,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27732,
+            "stars": 27744,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1214,7 +1214,7 @@
             "open_issues": 70,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27732,
+            "stars": 27744,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1235,7 +1235,7 @@
             "open_issues": 70,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27732,
+            "stars": 27744,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1256,7 +1256,7 @@
             "open_issues": 40,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 22033,
+            "stars": 22048,
             "topics": [
               "chinese",
               "flash-attention",
@@ -1284,7 +1284,7 @@
             "open_issues": 116,
             "owner": "meta-llama",
             "repo": "codellama",
-            "stars": 16205,
+            "stars": 16206,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1331,7 +1331,7 @@
             "open_issues": 24,
             "owner": "OpenBMB",
             "repo": "MiniCPM",
-            "stars": 11873,
+            "stars": 11874,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1398,7 +1398,7 @@
             "open_issues": 62,
             "owner": "deepseek-ai",
             "repo": "DeepSeek-LLM",
-            "stars": 7281,
+            "stars": 7282,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1544,7 +1544,7 @@
             "open_issues": 115,
             "owner": "microsoft",
             "repo": "LoRA",
-            "stars": 13923,
+            "stars": 13928,
             "topics": [
               "adaptation",
               "deberta",
@@ -1576,7 +1576,7 @@
             "open_issues": 208,
             "owner": "artidoro",
             "repo": "qlora",
-            "stars": 11067,
+            "stars": 11068,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1593,11 +1593,11 @@
             "id": 240541316,
             "language": "Jupyter Notebook",
             "license": null,
-            "last_commit": "2026-11-13T19:01:44Z",
+            "last_commit": "2026-11-16T17:27:38Z",
             "open_issues": 257,
             "owner": "huggingface",
             "repo": "blog",
-            "stars": 3563,
+            "stars": 3566,
             "topics": [
               "hacktoberfest"
             ]
@@ -1647,7 +1647,7 @@
             "open_issues": 16,
             "owner": "THUDM",
             "repo": "P-tuning",
-            "stars": 939,
+            "stars": 940,
             "topics": [
               "few-shot-learning",
               "natural-language-processing",
@@ -1723,7 +1723,7 @@
             "open_issues": 29,
             "owner": "salesforce",
             "repo": "WikiSQL",
-            "stars": 1800,
+            "stars": 1799,
             "topics": [
               "database",
               "dataset",
@@ -1751,7 +1751,7 @@
             "open_issues": 85,
             "owner": "AlibabaResearch",
             "repo": "DAMO-ConvAI",
-            "stars": 1623,
+            "stars": 1625,
             "topics": [
               "conversational-ai",
               "deep-learning",
@@ -1777,7 +1777,7 @@
             "open_issues": 70,
             "owner": "taoyds",
             "repo": "spider",
-            "stars": 1108,
+            "stars": 1109,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -1973,11 +1973,11 @@
             "id": 646410686,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T13:16:48Z",
+            "last_commit": "2026-11-16T19:13:46Z",
             "open_issues": 1248,
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 76051,
+            "stars": 76071,
             "topics": [
               "agent",
               "ai",
@@ -2019,7 +2019,7 @@
             "open_issues": 0,
             "owner": "defog-ai",
             "repo": "sqlcoder",
-            "stars": 4046,
+            "stars": 4048,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:43.197Z"
@@ -2107,7 +2107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:52:57.011Z",
+    "last_updated": "2026-11-16T23:27:25.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated tutorials and resources for Large Language Models, Text2SQL,  Text2DSL、Text2API、Text2Vis and more.",
@@ -2119,7 +2119,7 @@
       "open_issues": 13,
       "owner": "eosphoros-ai",
       "repo": "Awesome-Text2SQL",
-      "stars": 3784,
+      "stars": 3785,
       "topics": [
         "ai",
         "awesome",
